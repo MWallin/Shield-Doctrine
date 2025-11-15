@@ -2,10 +2,14 @@ Act 1 - Improvements
 
 # Act I: Obsidian Station - Story Document
 Current Status
-Word Count: ~8,500 words
-Estimated Reading Time: ~35 minutes
-Target Word Count: ~90,000 words
-Expansion Needed: ~81,500 words
+Word Count: 2,370 words
+Target Word Count: 90,000 words
+Expansion Needed: 87,630 words
+
+Estimated Writing Time (at 500 words/hour):
+- Total Hours: ~175 hours
+- Writing Days (2 hours/day): ~88 days
+- Calendar Time (5 days/week): ~18 weeks
 
 What's Working
 Strong Opening Hook

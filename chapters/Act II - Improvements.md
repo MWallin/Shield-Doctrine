@@ -2,10 +2,14 @@ Act II - Improvements
 
 # Act II: The Typhon Ambush - Story Document
 Current Status
-Word Count: ~11,000 words
-Estimated Reading Time: ~45 minutes
-Target Word Count: ~90,000 words
-Expansion Needed: ~79,000 words
+Word Count: 4,151 words
+Target Word Count: 90,000 words
+Expansion Needed: 85,849 words
+
+Estimated Writing Time (at 500 words/hour):
+- Total Hours: ~172 hours
+- Writing Days (2 hours/day): ~86 days
+- Calendar Time (5 days/week): ~17 weeks
 
 What's Working
 Time Structure
