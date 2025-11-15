@@ -2,10 +2,14 @@ Act III - Improvements
 
 # Act III: The Shield Doctrine - Story Document
 Current Status
-Word Count: ~13,500 words
-Estimated Reading Time: ~55 minutes
-Target Word Count: ~90,000 words
-Expansion Needed: ~76,500 words
+Word Count: 7,069 words
+Target Word Count: 90,000 words
+Expansion Needed: 82,931 words
+
+Estimated Writing Time (at 500 words/hour):
+- Total Hours: ~166 hours
+- Writing Days (2 hours/day): ~83 days
+- Calendar Time (5 days/week): ~17 weeks
 
 What's Working
 Rushed Development Theme
