@@ -1,0 +1,5 @@
+# Claude Code local settings
+.claude/
+
+# Working notes (not part of canonical project)
+_notes/
