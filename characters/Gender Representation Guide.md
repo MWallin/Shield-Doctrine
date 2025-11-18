@@ -209,6 +209,60 @@ Women in military roles can exhibit full emotional range:
 
 ---
 
+## The Bechdel Test and Other Diagnostic Tools
+
+### The Bechdel Test (Bechdel-Wallace Test)
+
+Created by cartoonist Alison Bechdel in 1985, this simple test has three criteria:
+
+1. **The work has at least two named female characters**
+2. **Who talk to each other**
+3. **About something other than a man**
+
+**Important Context:**
+- This is a minimum threshold, not a quality measure
+- Passing doesn't guarantee good representation; failing doesn't guarantee bad representation
+- It's most useful as a diagnostic tool to identify patterns across media
+- Many acclaimed works fail this surprisingly low bar
+
+**Shield Doctrine Application:**
+
+Your setting easily passes with professional interactions between:
+- **Varro and Torres**: Discussing phase-shield technology, engineering constraints, tactical applications
+- **Varro and Tanaka**: Intelligence findings, security investigations, threat assessments
+- **Varro and Stone**: Strategic decisions, resource allocation, doctrine authorization
+- **Rodriguez and Williams**: Combat engineering coordination, tactical execution
+- **Torres and female engineers**: Technical problem-solving
+
+**Key Principle:** In a professional military setting, these conversations naturally focus on tactics, technology, strategy, and operations—not personal relationships. This makes passing the test organic rather than forced.
+
+### Related Tests
+
+**The Mako Mori Test:**
+- Does the work have at least one female character with her own narrative arc that isn't about supporting a man's story?
+- Shield Doctrine passes: Varro's arc is about developing Shield Doctrine and proving innovative tactics work
+
+**The Sexy Lamp Test:**
+- Could you replace the female character with a sexy lamp and have the same plot?
+- If yes, that's inadequate characterization
+- All Shield Doctrine female characters have agency, expertise, and drive the plot forward
+
+### Writing for the Bechdel Test
+
+**Do:**
+- Include scenes where female characters discuss mission objectives, technical problems, strategic challenges
+- Show professional collaboration between women in different specialties
+- Demonstrate that women relate to each other as colleagues and experts
+
+**Don't:**
+- Make every conversation between women about relationships or men
+- Force awkward "Bechdel-passing" dialogue that feels unnatural
+- Treat it as a checkbox rather than a reminder to give female characters depth and agency
+
+**Remember:** The goal isn't to "pass the test" but to create a world where women are fully integrated professionals whose conversations naturally reflect their roles, expertise, and concerns—just like male characters.
+
+---
+
 ## Writing Checklist
 
 When creating new characters or scenes:
@@ -221,6 +275,9 @@ When creating new characters or scenes:
 - [ ] Do characters have personal motivations and agency?
 - [ ] Is the equal opportunity background natural and unremarkable?
 - [ ] Are both successes and failures distributed across genders?
+- [ ] Do female characters talk to each other about professional matters? (Bechdel Test)
+- [ ] Does at least one female character have her own narrative arc? (Mako Mori Test)
+- [ ] Could I replace this female character with a lamp without changing the plot? (If yes, revise!)
 
 ---
 
