@@ -710,11 +710,12 @@ Balance requires showing male characters also interact professionally without fe
 - Chen respects Kowalski's experience; Kowalski respects Chen's tactical innovation
 - Respect is earned through demonstrated ability
 
-**5. Professional Relationships, Not Personal Drama**
+**5. Professional Relationships First**
 - Bonds formed through shared risk and mission success
 - Disagreements are professional, not personal
-- No romantic subplots distracting from mission focus
-- Deep friendships and professional partnerships exist across gender lines without sexual tension
+- Professional partnerships exist across gender lines without mandatory sexual tension
+- Romantic relationships (if included at all) are background context, never plot drivers
+- See Gender Representation Guide for detailed guidance on romance—default recommendation is to skip it entirely
 
 ## Writing Reminder
 

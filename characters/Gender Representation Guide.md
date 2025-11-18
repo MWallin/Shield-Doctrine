@@ -191,8 +191,10 @@ Don't feel compelled to explain why women are in combat roles. In this universe,
 ### 3. Gender as Plot Device
 Avoid storylines centered on proving women can serve, dealing with discrimination, or overcoming gender barriers. Those battles are already won in this setting.
 
-### 4. Romantic Subplot Trap
-Professional relationships should dominate. The Torres-Adeyemi dynamic is friendly institutional rivalry, not romance. Chen and Varro have mentor-protégé relationship, not attraction.
+### 4. Romantic Relationships (Probably Skip This)
+**Default recommendation: Don't include romance.** Military SF focused on tactical innovation, professional competence, and strategic challenges doesn't need romantic subplots. They often distract from the core story and frequently undermine character competence.
+
+**However, if you do include romantic relationships**, see the detailed guidance in the "Romantic Relationships in Military Settings" section below. The key: romance should be background context, not plot driver.
 
 ### 5. Physical Capability Overcompensation
 Don't make women unrealistically stronger than men to "prove" equality. Instead:
@@ -206,6 +208,156 @@ Women in military roles can exhibit full emotional range:
 - Can form deep bonds with comrades
 - Can be fierce warriors and thoughtful leaders
 - Don't have to be emotionally stunted to be tough
+
+---
+
+## Romantic Relationships in Military Settings (Optional)
+
+**First principle: You don't need this.** Shield Doctrine works perfectly well as a story about professional military innovation, tactical excellence, and institutional adaptation. Romance is entirely optional.
+
+**Second principle: Military SF romance is often done poorly.** Common problems include:
+- Female characters reduced to love interests
+- Professional competence undermined by romantic feelings
+- Forced sexual tension between characters who should be focused on not dying
+- Romance becoming the primary subplot
+- The "warrior softened by love" trope
+
+**If you choose to include romantic relationships anyway**, here's how to avoid the worst pitfalls:
+
+### When Romance Can Work
+
+**1. Established Relationships (Background Context)**
+- Characters who are already married/partnered before the story begins
+- Relationship exists but doesn't drive plot
+- Shows characters have personal lives without making it the focus
+- Example: "Kowalski mentioned his wife briefly in conversation about shore leave" vs. entire subplot about their relationship
+
+**2. Off-Duty Personal Lives**
+- Romance happens off-screen, between missions
+- Professional boundaries maintained on duty
+- Relationship acknowledged but not explored in detail during tactical operations
+- Example: Torres has a partner back home who gets brief mentions, not pages of longing
+
+**3. Peer Relationships (Same Rank, Different Units)**
+- Avoids problematic power dynamics
+- Can maintain professional boundaries more easily
+- Relationship doesn't interfere with chain of command
+- Example: Two ship captains in different task forces who are romantically involved but rarely serve together
+
+### What Absolutely Doesn't Work
+
+**1. Superior-Subordinate Romance**
+- Varro and Chen: NO. Mentor-protégé relationship is more interesting and appropriate.
+- Stone and Varro: NO. This is the chain of command.
+- Any officer-enlisted relationship: NO. This violates professional military ethics.
+
+**2. Romance as Character Motivation**
+- Female character whose primary motivation is love interest: NO
+- "I'm fighting for my husband/boyfriend": Weak compared to "I'm fighting for the Confederation/my team/the mission"
+- Character competence exists independent of romantic relationships
+
+**3. Sexual Tension During Combat**
+- Characters worrying about their feelings mid-battle: NO
+- Romantic subplot distracting from tactical decisions: NO
+- "Will they/won't they" tension during life-or-death operations: NO
+
+**4. The "Complete Me" Trope**
+- Character who needs romance to become whole: NO
+- Especially problematic for female warriors who are "softened by love"
+- Characters should be complete, competent people whether partnered or not
+
+### If You Include Romance in Shield Doctrine
+
+**Characters Who Could Have Romantic Relationships (Without Undermining Story):**
+
+**Admiral Stone:**
+- Could be married/partnered (long-term established relationship)
+- Partner never appears on-screen
+- Relationship context shows she has personal life but doesn't affect strategic decisions
+- Brief mention in conversation, then back to work
+
+**Kowalski:**
+- Established family man with wife and kids
+- Mentioned occasionally but not explored
+- Provides context for why he values training the next generation
+- Personal stakes without romantic subplot
+
+**Park:**
+- Could have partner (spouse who serves in different unit)
+- Relationship provides context for her sacrifice decision—she knows what she's risking
+- But decision still based on tactical necessity, not romance
+
+**Torres or Tanaka:**
+- Could have off-screen relationships that get brief mentions
+- Shows they have personal lives without making it plot-relevant
+- Partner might be civilian, avoiding military complications
+
+**Who Should NOT Have Romantic Subplots:**
+
+**Varro:**
+- Protagonist's arc is about tactical innovation and command growth
+- Adding romance would dilute focus and risk "warrior softened by love" trope
+- Professional relationships (mentor to Chen, peer to Torres, subordinate to Stone) are richer
+
+**Chen:**
+- Young officer developing into leader and teacher
+- Romance with Varro would be inappropriate (rank difference)
+- Romance with Rodriguez or Williams would be cliché (combat romance)
+- Better to show professional growth without romantic complications
+
+**Torres and Adeyemi:**
+- Current dynamic as friendly institutional rivalry (Engineering vs. Science) is more interesting
+- Making it romantic would undermine the professional collaboration that drives innovation
+- Proves men and women can work together closely without sexual tension
+
+### Writing Guidelines for Romance (If You Use It)
+
+**DO:**
+- Make it background context, not plot driver
+- Maintain professional boundaries during operations
+- Show that competence exists independent of relationship status
+- Keep romantic partners off-screen or in different units
+- Use established relationships rather than "falling in love" storylines
+- Remember that mission comes first, always
+
+**DON'T:**
+- Make female characters primarily defined by romantic relationships
+- Create superior-subordinate romances (ethics violation)
+- Let romance interfere with tactical decisions or professional judgment
+- Use romance to "soften" tough characters or "complete" them
+- Make every cross-gender interaction about attraction
+- Spend pages on relationship drama when you should be writing tactical operations
+
+### The Test: Does This Romance Enhance or Distract?
+
+Ask yourself:
+- **Does this relationship make the character more interesting?** Or just more conventional?
+- **Does it provide useful context?** Or just take up page space?
+- **Does it maintain professional competence?** Or undermine it?
+- **Would the story work better without it?** (Probably yes)
+
+### Real Military Context
+
+Modern militaries have policies about relationships:
+- **Fraternization rules** prohibit certain relationships (officer-enlisted, supervisor-subordinate)
+- **Professional boundaries** are maintained even with permitted relationships
+- **Mission focus** remains paramount
+- **Personal relationships** exist but don't override duty
+
+Your fictional Confederation would likely have similar policies. Characters violating these policies would face consequences, not romantic comedy.
+
+### Bottom Line on Romance
+
+**You probably don't need it.** The story of Shield Doctrine—tactical innovation, professional excellence, institutional adaptation, and military competence—works perfectly well without romantic subplots.
+
+**If you include it anyway:**
+- Keep it background
+- Avoid common pitfalls
+- Never let it undermine competence
+- Maintain professional boundaries
+- Make mission and duty paramount
+
+**The safest approach:** Mention in passing that some characters have established partners back home, then get back to the actual story of military operations and tactical innovation.
 
 ---
 
