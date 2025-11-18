@@ -407,26 +407,27 @@ Antagonist catalyst, system vulnerability exemplar
 
 Not a villain but victim of flawed system—served loyally for 9 years but felt perpetually excluded. His betrayal forces citizenship reforms showing Confederation learns from failures.
 
-## Centurion Rodriguez (Acts II-III)
+## Centurion Maria Rodriguez (Acts II-III)
 
-**Role:** 
+**Role:**
 
-Represents partially-trained specialists pressed into service
+Represents partially-trained specialists pressed into service, female ground combat leader
 
 **Background:**
 
 - Second cohort—completed training only 3 months before Hammerfall
 - Team leader despite limited experience
+- Exceptionally high phase tolerance (97th percentile) enabled rapid advancement
 - Loses two of eight team members at Hammerfall
 - Embodies survivor's guilt and professional growth
 
 **Significance:**
 
-Shows Shield Doctrine isn't polished yet—people are doing their best with incomplete preparation, adapting and succeeding through professional competence despite not being fully ready.
+Shows Shield Doctrine isn't polished yet—people are doing their best with incomplete preparation, adapting and succeeding through professional competence despite not being fully ready. Demonstrates women in front-line ground combat leadership roles—Rodriguez's success comes from tactical skill and exceptional phase tolerance, not from lowered standards.
 
-## Sergeant Williams (Act III)
+## Sergeant Sarah Williams (Act III)
 
-**Role: **
+**Role:**
 
 Combat engineer perspective, anchor assembly specialist
 
@@ -436,14 +437,15 @@ Combat engineer perspective, anchor assembly specialist
 - Can't serve as boarding specialist
 - Critical role assembling warp anchors under fire
 - Mentors junior engineers like Kim
+- 7 years engineering experience, chose combat engineering over safer rear-echelon roles
 
 **Significance:**
 
-Represents combat engineers—different specialists with crucial roles, high casualty rates (23% at Hammerfall), successful missions depend on their work.
+Represents combat engineers—different specialists with crucial roles, high casualty rates (23% at Hammerfall), successful missions depend on their work. Shows women in physically demanding technical roles making personal choice toward dangerous assignments despite having safer alternatives.
 
 
-## Private First Class Hassan (Act III)
-**Role:** 
+## Private First Class Jamal Hassan (Act III)
+**Role:**
 
 Support personnel, severe phase intolerance, rear-echelon guard
 
@@ -475,8 +477,8 @@ Second Webb-analogue, investigation target
 
 Shows Webb wasn't isolated case—systemic problem requiring systemic solution (citizenship reforms). Her arrest prevents information leak but doesn't solve underlying issue.
 
-## Captain Park (Act III)
-**Role: **
+## Captain Jennifer Park (Act III)
+**Role:**
 
 Carrier commander, sacrifice for mission
 
@@ -487,13 +489,14 @@ Carrier commander, sacrifice for mission
 - Sacrifices ship to maintain anchor operations
 - All crew survive, ship requires 18-month repairs
 - Receives Confederation Star (highest honor)
+- 14 years service, rose through navigation and tactical specialties
 
 **Significance:**
 
-Exemplifies professional dedication—makes correct tactical decision knowing personal cost, demonstrates that carrier positioning requirement creates real vulnerabilities and requires real sacrifice.
+Exemplifies professional dedication—makes correct tactical decision knowing personal cost, demonstrates that carrier positioning requirement creates real vulnerabilities and requires real sacrifice. Shows women in ship command making high-stakes tactical decisions under fire.
 
-## Lieutenant Morrison (Act I)
-**Role:** 
+## Lieutenant Alex Morrison (Act I)
+**Role:**
 
 Shuttle pilot, extraction specialist
 
@@ -502,6 +505,7 @@ Shuttle pilot, extraction specialist
 - Pilots first shuttle with phase-shield to Obsidian
 - Executes high-g extraction injuring many but saving lives
 - Demonstrates pilot competence under pressure
+- 6 years service, specialized in high-risk extraction operations
 
 **Significance:**
 
@@ -532,3 +536,11 @@ When characters die or are damaged, it matters. Park's sacrifice of her ship is 
 **Institutional Context:**
 
 Characters exist within larger structures—they represent different branches (Legions, Engineering Corps, Scientific Track, Intelligence), different ranks (strategic leadership, tactical command, specialist expertise), different perspectives (military, technical, political). Their interactions show how institutions work together.
+
+**Gender Representation:**
+
+The Confederation has equal opportunities with no formal restrictions based on gender. Character gender distribution reflects realistic personal choices rather than institutional barriers:
+- Women hold top military command (Varro, Stone), technical leadership (Torres), intelligence roles (Tanaka), front-line combat positions (Rodriguez), combat engineering (Williams), and ship command (Park)
+- Men fill ground combat leadership (Chen), senior NCO roles (Kowalski), scientific positions (Adeyemi), and support roles (Hassan)
+- Natural variation in role distribution reflects individual choices, abilities (like phase tolerance), and interests—not systemic discrimination
+- Multiple female characters in varied roles prevents tokenism and shows full integration across all military and civilian functions
