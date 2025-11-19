@@ -407,26 +407,27 @@ Antagonist catalyst, system vulnerability exemplar
 
 Not a villain but victim of flawed system—served loyally for 9 years but felt perpetually excluded. His betrayal forces citizenship reforms showing Confederation learns from failures.
 
-## Centurion Rodriguez (Acts II-III)
+## Centurion Maria Rodriguez (Acts II-III)
 
-**Role:** 
+**Role:**
 
-Represents partially-trained specialists pressed into service
+Represents partially-trained specialists pressed into service, female ground combat leader
 
 **Background:**
 
 - Second cohort—completed training only 3 months before Hammerfall
 - Team leader despite limited experience
+- Exceptionally high phase tolerance (97th percentile) enabled rapid advancement
 - Loses two of eight team members at Hammerfall
 - Embodies survivor's guilt and professional growth
 
 **Significance:**
 
-Shows Shield Doctrine isn't polished yet—people are doing their best with incomplete preparation, adapting and succeeding through professional competence despite not being fully ready.
+Shows Shield Doctrine isn't polished yet—people are doing their best with incomplete preparation, adapting and succeeding through professional competence despite not being fully ready. Demonstrates women in front-line ground combat leadership roles—Rodriguez's success comes from tactical skill and exceptional phase tolerance, not from lowered standards.
 
-## Sergeant Williams (Act III)
+## Sergeant Sarah Williams (Act III)
 
-**Role: **
+**Role:**
 
 Combat engineer perspective, anchor assembly specialist
 
@@ -436,14 +437,15 @@ Combat engineer perspective, anchor assembly specialist
 - Can't serve as boarding specialist
 - Critical role assembling warp anchors under fire
 - Mentors junior engineers like Kim
+- 7 years engineering experience, chose combat engineering over safer rear-echelon roles
 
 **Significance:**
 
-Represents combat engineers—different specialists with crucial roles, high casualty rates (23% at Hammerfall), successful missions depend on their work.
+Represents combat engineers—different specialists with crucial roles, high casualty rates (23% at Hammerfall), successful missions depend on their work. Shows women in physically demanding technical roles making personal choice toward dangerous assignments despite having safer alternatives.
 
 
-## Private First Class Hassan (Act III)
-**Role:** 
+## Private First Class Jamal Hassan (Act III)
+**Role:**
 
 Support personnel, severe phase intolerance, rear-echelon guard
 
@@ -475,8 +477,8 @@ Second Webb-analogue, investigation target
 
 Shows Webb wasn't isolated case—systemic problem requiring systemic solution (citizenship reforms). Her arrest prevents information leak but doesn't solve underlying issue.
 
-## Captain Park (Act III)
-**Role: **
+## Captain Jennifer Park (Act III)
+**Role:**
 
 Carrier commander, sacrifice for mission
 
@@ -487,13 +489,14 @@ Carrier commander, sacrifice for mission
 - Sacrifices ship to maintain anchor operations
 - All crew survive, ship requires 18-month repairs
 - Receives Confederation Star (highest honor)
+- 14 years service, rose through navigation and tactical specialties
 
 **Significance:**
 
-Exemplifies professional dedication—makes correct tactical decision knowing personal cost, demonstrates that carrier positioning requirement creates real vulnerabilities and requires real sacrifice.
+Exemplifies professional dedication—makes correct tactical decision knowing personal cost, demonstrates that carrier positioning requirement creates real vulnerabilities and requires real sacrifice. Shows women in ship command making high-stakes tactical decisions under fire.
 
-## Lieutenant Morrison (Act I)
-**Role:** 
+## Lieutenant Alex Morrison (Act I)
+**Role:**
 
 Shuttle pilot, extraction specialist
 
@@ -502,6 +505,7 @@ Shuttle pilot, extraction specialist
 - Pilots first shuttle with phase-shield to Obsidian
 - Executes high-g extraction injuring many but saving lives
 - Demonstrates pilot competence under pressure
+- 6 years service, specialized in high-risk extraction operations
 
 **Significance:**
 
@@ -532,3 +536,192 @@ When characters die or are damaged, it matters. Park's sacrifice of her ship is 
 **Institutional Context:**
 
 Characters exist within larger structures—they represent different branches (Legions, Engineering Corps, Scientific Track, Intelligence), different ranks (strategic leadership, tactical command, specialist expertise), different perspectives (military, technical, political). Their interactions show how institutions work together.
+
+**Gender Representation:**
+
+The Confederation has equal opportunities with no formal restrictions based on gender. Character gender distribution reflects realistic personal choices rather than institutional barriers:
+- Women hold top military command (Varro, Stone), technical leadership (Torres), intelligence roles (Tanaka), front-line combat positions (Rodriguez), combat engineering (Williams), and ship command (Park)
+- Men fill ground combat leadership (Chen), senior NCO roles (Kowalski), scientific positions (Adeyemi), and support roles (Hassan)
+- Natural variation in role distribution reflects individual choices, abilities (like phase tolerance), and interests—not systemic discrimination
+- Multiple female characters in varied roles prevents tokenism and shows full integration across all military and civilian functions
+
+---
+
+# Professional Interactions and Collaboration
+
+This section outlines key professional relationships that demonstrate competence-based recognition regardless of gender. These interactions show how the Confederation values expertise, skill, and results—not demographics.
+
+## Cross-Gender Professional Partnerships
+
+### Varro and Chen (Mentor-Protégé)
+**Nature:** Commander recognizes tactical genius in junior officer
+**Key Interactions:**
+- Varro promotes Chen based on battlefield innovation and leadership competence
+- Chen executes Varro's strategic vision at tactical level
+- Post-action debriefs where both analyze what worked and what didn't
+- Varro trusts Chen to lead the most dangerous boarding operations because of his skill, not gender
+
+**What This Shows:** Merit-based advancement. Leadership recognizes talent regardless of who demonstrates it.
+
+### Varro and Kowalski (Officer-NCO Partnership)
+**Nature:** Professional respect between command and enlisted leadership
+**Key Interactions:**
+- Kowalski provides ground-truth tactical input from NCO perspective
+- Varro relies on Kowalski's institutional knowledge and training expertise
+- Mutual respect built on competence—officer trusts NCO judgment, NCO executes officer's intent
+
+**What This Shows:** Rank and role matter; gender doesn't. Professional military relationships transcend demographics.
+
+### Torres and Adeyemi (Institutional Collaboration)
+**Nature:** Engineering Corps and Scientific Track working together
+**Key Interactions:**
+- Initial professional rivalry (Engineers vs Scientists)
+- Collaborative breakthrough combining Torres's practical engineering with Adeyemi's theoretical physics
+- Mutual respect developed through demonstrated competence
+- Friendly competition that drives innovation
+
+**What This Shows:** Collaboration succeeds when experts respect each other's contributions. Gender irrelevant to technical excellence.
+
+### Chen and Kowalski (Combat Leadership)
+**Nature:** Officer-NCO tactical partnership in boarding operations
+**Key Interactions:**
+- Chen relies on Kowalski's experience and steady presence
+- Kowalski executes Chen's tactical plans and provides feedback
+- Shared risk in dangerous operations builds trust
+- Professional partnership where both excel in their roles
+
+**What This Shows:** Combat effectiveness comes from skill and teamwork, not gender composition.
+
+## Female-Female Professional Interactions
+
+These interactions are critical to show women relating to each other as colleagues and experts, not through male characters or romantic subplots.
+
+### Varro and Torres (Command-Technical Partnership)
+**Nature:** Military commander working with chief engineer
+**Suggested Interactions:**
+- **Act I:** Torres briefs Varro on phase-shield fabrication constraints and possibilities under time pressure at Obsidian. Varro makes tactical decisions based on Torres's technical assessment.
+- **Act II:** Joint problem-solving sessions on improving shield technology—Torres explains engineering limitations, Varro describes tactical requirements, both negotiate what's achievable.
+- **Act III:** Pre-Hammerfall planning where Torres provides technical assessment of warp corridor risks and Varro decides acceptable risk levels for mission success.
+
+**What This Shows:** Women collaborate professionally across specialties. Technical expert and strategic leader work together based on mutual respect for each other's expertise.
+
+### Varro and Tanaka (Command-Intelligence Partnership)
+**Nature:** Commander receiving intelligence assessments
+**Suggested Interactions:**
+- **Act I:** Tanaka reports unauthorized transmissions to Varro; both analyze security implications together.
+- **Act II:** Tanaka briefs Varro on Webb investigation findings—discussion of systemic vulnerabilities in citizenship system and implications for force security.
+- **Act III:** Intelligence assessment of Krell fleet composition and likely responses—Tanaka provides analysis, Varro integrates into operational planning.
+
+**What This Shows:** Women in command and intelligence roles interact professionally about security threats, investigations, and strategic assessments—conversations focused entirely on mission effectiveness.
+
+### Varro and Stone (Subordinate-Superior Command Relationship)
+**Nature:** Task force commander reporting to fleet admiral
+**Suggested Interactions:**
+- **Act II:** Stone arrives post-Typhon; Varro briefs her on boarding operation and requests resources for Shield Doctrine development. Stone challenges assumptions, Varro defends decisions with data. Stone approves based on results.
+- **Act III:** Varro presents Hammerfall plan to skeptical Stone. Professional debate about risks vs. necessity. Stone approves because Varro's track record and reasoning are sound, despite reservations.
+- **Post-Act III:** Stone and Varro discuss scaling Shield Doctrine across fleet—strategic resource allocation decisions.
+
+**What This Shows:** Women at highest military command levels engage in professional strategic debates. Junior officer must justify decisions to senior officer based on merit and results—gender never mentioned because it's irrelevant.
+
+### Rodriguez and Williams (Combat-Engineering Coordination)
+**Nature:** Ground combat leader coordinating with combat engineer
+**Suggested Interactions:**
+- **Act III:** Pre-assault planning where Rodriguez outlines boarding sequence and Williams explains anchor assembly requirements and timing constraints.
+- **During Hammerfall:** Rodriguez's team secures positions so Williams can assemble warp anchors under fire—tactical coordination in real-time.
+- **Post-battle:** Rodriguez and Williams debrief what worked and what didn't—combat leader and engineer both providing professional input on improving coordination.
+
+**What This Shows:** Women in front-line combat and engineering roles coordinate tactically. Conversation focused on mission execution, timing, security, and technical requirements.
+
+### Torres and Williams (Engineering Hierarchy)
+**Nature:** Chief engineer and combat engineer
+**Suggested Interactions:**
+- **Act II-III:** Torres provides technical training on warp anchor assembly to Williams and other combat engineers.
+- **Pre-Hammerfall:** Torres briefs Williams on anchor assembly procedures and tolerances—what can be field-improvised vs. what must be precise.
+- **Post-Hammerfall:** Williams reports field conditions and assembly challenges back to Torres for future design improvements.
+
+**What This Shows:** Women in engineering chain of command—senior engineer trains junior engineer, junior provides field feedback to improve designs. Pure technical collaboration.
+
+### Park and Varro (Peer Commanders)
+**Nature:** Carrier captain receiving operational orders from task force commander
+**Suggested Interactions:**
+- **Act III:** Varro assigns Park's carrier to critical but vulnerable anchor position. Park acknowledges risks, confirms understanding of mission importance.
+- **During Hammerfall:** Professional communications as Park's ship takes damage but holds position—both commanders understand the stakes.
+- **Post-battle:** Mutual professional respect—Park made correct decision to sacrifice ship for mission; Varro recognizes Park's tactical judgment under fire.
+
+**What This Shows:** Women in ship command making life-or-death tactical decisions. Professional military communications under fire.
+
+## Male-Male Professional Interactions
+
+Balance requires showing male characters also interact professionally without female involvement.
+
+### Chen and Kowalski (Primary Combat Partnership)
+- Officer-NCO bond in boarding operations
+- Shared risk and mutual respect
+- Professional military partnership built over years of combat
+
+### Adeyemi and Webb (Scientist Colleagues)
+- Pre-betrayal research collaboration at Obsidian
+- Professional relationship turned tragic when exclusion drove Webb to betrayal
+
+### Chen and Hassan (Leader and Support Personnel)
+- Chen ensuring all personnel understand their value
+- Recognition that combat effectiveness requires support structure
+
+## Mixed-Group Interactions
+
+### After-Action Reviews (All Key Personnel)
+**Participants:** Varro, Chen, Kowalski, Torres, Tanaka, Stone (when present), Rodriguez, Williams
+**Nature:** Professional debriefs analyzing what worked and what didn't
+**What This Shows:**
+- Mixed-gender groups focused entirely on mission effectiveness
+- Everyone contributes based on their role and expertise
+- Gender composition unremarkable—this is just the team
+
+### Planning Sessions
+**Participants:** Commanders, technical leads, intelligence officers
+**Nature:** Operational planning integrating tactical, technical, and intelligence inputs
+**What This Shows:**
+- Decisions made based on expertise and role, not gender
+- Professional debate and disagreement based on different perspectives (tactical vs. technical vs. intelligence)
+- Best idea wins regardless of who proposes it
+
+## Key Principles for Writing Interactions
+
+**1. Role and Expertise Drive Conversations**
+- Torres talks about engineering because she's chief engineer, not because she's female
+- Varro commands because she's the commander, not to prove women can lead
+- Chen leads boarding operations because of his exceptional phase tolerance and tactical skill
+
+**2. Gender Is Unremarkable**
+- Characters don't comment on each other's gender
+- No one is surprised by women in combat or men in support roles
+- Professional respect based on demonstrated competence
+
+**3. Natural Conflict Comes from Role Differences**
+- Engineers want more time; commanders need results now
+- Intelligence urges caution; tactical leaders assess acceptable risk
+- Scientists pursue understanding; military needs working solutions
+- These tensions exist regardless of who fills the roles
+
+**4. Mutual Respect Based on Competence**
+- Varro respects Torres's engineering expertise
+- Torres respects Varro's tactical judgment
+- Both respect Stone's strategic vision
+- Chen respects Kowalski's experience; Kowalski respects Chen's tactical innovation
+- Respect is earned through demonstrated ability
+
+**5. Professional Relationships First**
+- Bonds formed through shared risk and mission success
+- Disagreements are professional, not personal
+- Professional partnerships exist across gender lines without mandatory sexual tension
+- Romantic relationships (if included at all) are background context, never plot drivers
+- See Gender Representation Guide for detailed guidance on romance—default recommendation is to skip it entirely
+
+## Writing Reminder
+
+When writing any interaction:
+- **Ask:** Does this conversation serve the mission, advance the plot, or develop character competence?
+- **Avoid:** Conversations that exist only to comment on gender representation
+- **Remember:** In a truly equal society, gender goes unmentioned because it's irrelevant to professional effectiveness
+
+The goal is invisible equality—readers engage with characters as people doing jobs, where excellence is recognized regardless of who demonstrates it.
