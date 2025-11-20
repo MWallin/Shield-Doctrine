@@ -1,6 +1,8 @@
-# Stellar Republic vs Story v5: Major Inconsistencies
+# Stellar Republic vs Story v7: Major Inconsistencies
 
-**Purpose**: This document identifies contradictions between the Stellar Republic worldbuilding (master source) and the v5 Acts. The Stellar Republic is treated as canonical; the story needs revision to align.
+**Purpose**: This document identifies contradictions between the Stellar Republic worldbuilding (master source) and the current story (Act I v7, Acts II-III v5). The Stellar Republic is treated as canonical; the story needs revision to align.
+
+**Last Updated**: 2025-01-20 (reviewed against Act I v7)
 
 ---
 
@@ -16,9 +18,10 @@ The Republic **already has** a sophisticated tiered citizenship system that has 
 
 This is a **foundational feature** that has existed for 600 years.
 
-### In Story v5 (INCONSISTENT):
-Act II presents citizenship as **binary** (citizen vs non-citizen) and introduces "three-tier citizenship reform" as a **new political development**:
+### In Story (INCONSISTENT):
+**Act I v7**: Webb served 9 years in civilian research. His resentment over citizenship exclusion motivates him to work with mysterious handler "Aurelius" and leak data to Krell.
 
+**Act II v5**: Introduces "three-tier citizenship reform" as a **new political development**:
 - Currently: 6 years military OR 12 years civilian → Federal Citizenship
 - **Proposed Reform** (Act II, Week 26):
   - 2 years → Civic Participant (local voting)
@@ -26,10 +29,17 @@ Act II presents citizenship as **binary** (citizen vs non-citizen) and introduce
   - 6 years → Federal Citizen (full rights)
 
 ### THE PROBLEM:
-The story treats tiered citizenship as a **new innovation** responding to the Webb security breach, when the Stellar Republic **already has** an even more sophisticated multi-tier system that's been in place for centuries.
+**v7 Update**: Act I now has detailed investigation scenes where Webb's 9-year service is presented as leaving him "excluded from citizenship" and vulnerable to recruitment. However:
+
+1. **Republic already has tiered citizenship**: After 8 years, Webb would have **Resident Citizenship** with local voting rights and most civic benefits
+2. **He's only 1-3 years from Full Citizenship**: At 9 years, he needs 1-3 more years plus examination
+3. **The "excluded resentful non-citizen" narrative doesn't work**: Webb wouldn't be a non-citizen; he'd be a Resident Citizen close to Full Citizenship
+4. **Act II's reform is unnecessary**: The tiered system Webb supposedly needs already exists and has for 600 years
 
 ### IMPACT:
-This is the **major plot driver** for the detective subplot. The entire "citizenship reform in response to security vulnerabilities" narrative contradicts established worldbuilding.
+This remains the **major plot inconsistency** despite v7's investigation improvements. The enhanced Webb interrogation scenes (democracy vs republic debate) and detailed investigation actually make the contradiction more prominent—we see Webb's motivation in detail, but that motivation contradicts the established citizenship system.
+
+**v7 Status**: UNRESOLVED. Added investigation scenes but didn't fix citizenship system conflict.
 
 ---
 
@@ -41,13 +51,15 @@ This is the **major plot driver** for the detective subplot. The entire "citizen
 - Federal structure with Federal Senate, Federal Consuls, etc.
 - Explicitly modeled on Roman Republic
 
-### In Story v5 (INCONSISTENT):
-- Called "the Confederation" throughout
+### In Story (INCONSISTENT):
+- Called "the Confederation" throughout all acts (v5 and v7)
 - References "Confederation space," "Confederation Command," "Confederation military"
 - Still uses Roman terminology (legions, centurions, etc.) but different political name
 
 ### RECOMMENDATION:
 Change all references from "Confederation" to "Republic" or "Stellar Republic"
+
+**v7 Status**: UNRESOLVED. Act I v7 still uses "Confederation" throughout (~200+ instances).
 
 ---
 
@@ -67,12 +79,14 @@ Key historical markers:
 - 150 years ago would be ~2600 (reconnection era)
 - Federal structure formalized at Congress of Proxima (2640)
 
-### In Story v5 (UNCLEAR):
-- References "First Generation legionaries" 150 years ago
-- Chen's grandfather served in "First Generation"
+### In Story (UNCLEAR):
+- References "First Generation legionaries" 150 years ago (Acts II-III v5)
+- Chen's grandfather served in "First Generation" (Acts II-III v5)
 - Unclear what "First Generation" means
 - No clear date or timeline placement
 - "Confederation" founding ambiguous
+
+**v7 Status**: PARTIALLY ADDRESSED. Act I v7 now says Chen's grandfather was "a First Generation legionary 150 years ago" (line 151), clarifying timeline slightly but not explaining what "First Generation" means in Stellar Republic context.
 
 ### THE PROBLEM:
 If the story is 150 years after founding, that would place it around 2300-2450 (isolation period), which contradicts:
@@ -107,15 +121,20 @@ If "First Generation" means something else, it's unclear what.
 6. Federal Senator (Age 45+)
 7. Federal Consul (Age 50+)
 
-### In Story v5 (INCONSISTENT):
-- "6 years military OR 12 years civilian → Federal Citizenship"
+### In Story (INCONSISTENT):
+- "6 years military OR 12 years civilian → Federal Citizenship" (Acts II-III v5)
 - No mention of Resident vs Full Citizenship distinction
 - No mention of examination requirement for Full Citizenship
 - Service branches not clearly defined
-- Chen described as promoted from ranks after 15 years—timeline unclear
+
+**v7 Update**: Act I v7 now correctly states Chen has "18 years service total" (15 years enlisted, 3 years as centurion), but doesn't explain his citizenship status or progression through tiers.
+
+**v7 Update**: Varro described as "8 years enlisted before commission" and earning "citizenship through military service" (line 239), but unclear if this means Resident or Full Citizenship.
 
 ### RECOMMENDATION:
 Align service requirements with Stellar Republic's 8-year (Resident) and 10-12 year (Full) structure
+
+**v7 Status**: PARTIALLY ADDRESSED. Service years clarified but tiered citizenship system not integrated.
 
 ---
 
@@ -137,12 +156,16 @@ Align service requirements with Stellar Republic's 8-year (Resident) and 10-12 y
 - Each can veto the other
 - Command federal fleet
 
-### In Story v5 (INCONSISTENT):
-- Senate has 300 members
+### In Story (INCONSISTENT):
+- Senate has 300 members (Acts II-III v5)
 - Members are "former military commanders at cohort level or higher OR civilian administrators"
 - "Lifelong membership after qualification"
 - No mention of system representation
-- Admiral Stone convenes emergency Senate session
+- Admiral Stone convenes emergency Senate session (Acts II-III v5)
+
+**v7 Update**: Act I v7 references "Senate Intelligence Committee" and Senate briefing, but doesn't clarify structure.
+
+**v7 Status**: UNRESOLVED in Act I v7. Senate structure remains unclear.
 
 ### THE PROBLEM:
 The story's Senate is a completely different institution:
@@ -175,18 +198,22 @@ Either align with Federal Senate structure, or clarify this is a System Senate, 
 - Centuries of ~30-80 personnel
 - Contubernia of 8 soldiers
 
-### In Story v5 (MOSTLY CONSISTENT BUT SOME ISSUES):
+### In Story (MOSTLY CONSISTENT):
 - Uses same terminology (Legate, Tribune, Centurion, etc.)
-- 3rd Assault Legion: 5,000 personnel ✓
-- **First Cohort: 800 personnel** (should be 200-300 per Stellar Republic)
-- Cohorts II-X: 480 each (reasonable variation)
-- Centurion Chen commands "a century of eighty legionaries" ✓
-- Uses contubernium of 8 ✓
+- 3rd Assault Legion: 5,000 personnel ✓ (Acts II-III v5)
+- **First Cohort: 800 personnel** (should be 200-300 per Stellar Republic) (Acts II-III v5)
+- Cohorts II-X: 480 each (reasonable variation) (Acts II-III v5)
+- Centurion Chen commands "a century of eighty legionaries" ✓ (Act I v7, line 147)
+- Uses contubernium of 8 ✓ (Act I v7, line 147)
 
-**Minor inconsistency**: First Cohort size (800 vs 200-300)
+**v7 Update**: Act I v7 uses correct terminology consistently. Chen's contubernium structure matches Stellar Republic (8-person unit).
+
+**Minor inconsistency**: First Cohort size (800 vs 200-300) in Acts II-III
 
 ### RECOMMENDATION:
 Adjust First Cohort size to align with traditional structure, or explain why 3rd Assault Legion has non-standard organization
+
+**v7 Status**: COMPATIBLE. Military structure well-aligned with Stellar Republic in Act I v7.
 
 ---
 
@@ -208,6 +235,8 @@ Either:
 1. Replace "Krell" with Meridian Empire (best fit for aggressive antagonist)
 2. Establish Krell as a different name for Meridian Empire
 3. Add Krell to Stellar Republic worldbuilding as new faction
+
+**v7 Status**: UNRESOLVED. Act I v7 still uses "Krell" throughout (~100+ instances).
 
 ---
 
@@ -234,6 +263,8 @@ Major decision needed:
 2. Remove jump drives from story, adjust tactical situations for subluminal combat
 3. Reconcile by having phase-shield/warp corridor tech be the path to FTL
 
+**v7 Status**: UNRESOLVED. Act I v7 still describes jump drives as "recently acquired" (2745) and central to rescue timeline. Decision needed: add FTL to Stellar Republic or remove from story.
+
 ---
 
 ## 9. Phase-Shield Technology Origin
@@ -251,6 +282,8 @@ Major decision needed:
 
 ### RECOMMENDATION:
 This is actually compatible—the artifact discovery could be placed in Stellar Republic timeline. Consider making it a recent event (~2745-2750).
+
+**v7 Status**: COMPATIBLE. Act I v7 maintains artifact discovery as central plot element. Can be integrated into Stellar Republic timeline without conflict.
 
 ---
 
@@ -275,24 +308,34 @@ This is actually compatible—the artifact discovery could be placed in Stellar 
 
 ## SUMMARY OF CRITICAL ISSUES
 
-**Must Fix:**
+**v7 Update Summary**: Act I v7 added detailed investigation scenes, character depth, and technical realism, but did NOT resolve the fundamental worldbuilding inconsistencies with Stellar Republic. The enhanced investigation actually makes citizenship contradictions more prominent.
+
+**Must Fix (UNRESOLVED in v7):**
 1. ⚠️ **CRITICAL**: Citizenship reform subplot contradicts 600-year-old tiered system
+   - **v7 Impact**: Webb interrogation scenes make this worse—we see his motivation in detail, but it contradicts established system
 2. Rename "Confederation" to "Republic" throughout
+   - **v7 Status**: ~200+ instances in Act I alone
 3. Clarify timeline placement and what "First Generation" means
+   - **v7 Status**: Partially addressed (Chen's grandfather reference) but still unclear
 4. Define or replace "Krell" in Stellar Republic worldbuilding
+   - **v7 Status**: ~100+ instances in Act I alone
 5. Resolve FTL jump drive vs subluminal travel contradiction
+   - **v7 Status**: Jump drives central to rescue timeline, needs decision
 
-**Should Align:**
+**Should Align (PARTIALLY ADDRESSED in v7):**
 6. Service requirements (6/12 years vs 8/10-12 years)
+   - **v7 Status**: Service years clarified (Chen 18 years, Varro 8 years enlisted) but tiered system not integrated
 7. Senate structure (300 members vs federal structure)
+   - **v7 Status**: Still unclear in Act I
 8. First Cohort size (800 vs 200-300)
+   - **v7 Status**: Not relevant to Act I v7
 
-**Compatible:**
-- Military terminology and rank structure
-- Roman civic values
-- Religious pluralism
-- Core combat tactics and equipment
-- Character types and motivations
+**Compatible (MAINTAINED in v7):**
+- Military terminology and rank structure ✓
+- Roman civic values ✓
+- Religious pluralism ✓
+- Core combat tactics and equipment ✓
+- Character types and motivations ✓
 
 ---
 
