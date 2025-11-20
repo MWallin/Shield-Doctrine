@@ -1,18 +1,52 @@
 Act I - Improvements
 
-# Act I: Obsidian Station - Story Document v5 Update
+# Act I: Obsidian Station - Story Document v7 Update
 Current Status
-Word Count: ~8,500 words (v5)
+Word Count: 10,465 words (v7)
+Previous Version: ~8,500 words (v5)
+Words Added in v7: ~1,965 words
 Target Word Count: 90,000 words
-Expansion Needed: ~81,500 words
+Expansion Needed: ~79,535 words
 
 Estimated Writing Time (at 500 words/hour):
-- Total Hours: ~163 hours
-- Writing Days (2 hours/day): ~82 days
+- Total Hours: ~159 hours
+- Writing Days (2 hours/day): ~80 days
 - Calendar Time (5 days/week): ~16 weeks
 
-What's Working in v5
-Strong Opening Hook
+## Major Updates in v7
+
+**Investigation Subplot Added:**
+- Murder mystery with Rodriguez/Park discovering Miller's body
+- Tanaka investigating 5 suspects with real detective work
+- Distillery red herring (Morrison/Park subplot)
+- Webb interrogation with ideological debate (democracy vs republic)
+- Data forensics: Torres building memory core reader, AI reconstruction
+- Files emerging reverse chronologically over hours
+- AI processing load effects (network slowdowns, crew complaints)
+- Act II setup with "Aurelius" handler and underground movement
+
+**Character Development:**
+- Webb as living character (interrogated, ideological plant, not victim)
+- Varro's background added (8 years enlisted before commission)
+- Chen's service corrected (18 years total)
+- Thompson's sacrifice (preserving Williams for Act III)
+- Character name fixes (Hassan → Davis to preserve Jamal Hassan for Act III)
+
+**Engineering Realism:**
+- Torres building shields in 35 minutes (up from 14) with real challenges
+- Conference call collaboration with Adeyemi
+- Trade-offs and improvisation (weapon capacitors, jump drive regulators)
+- Shield duration variance (5-25 minutes, uncertainty acknowledged)
+
+**Technical Detail:**
+- Memory core reading vs AI reconstruction explained
+- AI computational costs shown (30-40% ship processing)
+- Network performance degradation throughout ship
+- Forensic timeline: physical reading straightforward, reconstruction time-consuming
+
+## What's Working in v7
+
+**Strong Opening Hook**
 The mysterious artifact discovery creates immediate intrigue while the Krell attack provides action. The combination of ancient technology mystery and immediate danger hooks readers effectively.
 
 Clear Character Introduction
@@ -30,10 +64,28 @@ Chen's improvised use of phase-shields (position while phased, materialize at po
 Mystery Setup
 The artifact's unknown origin, the mathematical connection to jump drives, and Webb's betrayal all set up threads that continue through later acts.
 
-Professional Competence
-Characters succeed through skill and adaptation, not luck. Torres fabricating shields in 14 minutes, Chen leading under extreme stress, Varro making correct emergency decisions—all demonstrate competence.
+**Professional Competence**
+Characters succeed through skill and adaptation, not luck. Torres fabricating shields in 35 minutes with real challenges, Chen leading under extreme stress, Varro making correct emergency decisions, Tanaka's methodical investigation—all demonstrate competence.
 
-Mathematical Connection Established Early (v5 addition)
+**Investigation Subplot Integrated (v7 addition)**
+The murder mystery unfolds naturally through the rescue timeline. Rodriguez/Park discover Miller's body before the Krell attack. Tanaka's investigation is interrupted by combat, then continues during the 4-day stranding. The investigation demonstrates professional detective work, not exposition.
+
+**Realistic Data Forensics (v7 addition)**
+Torres building the memory core reader in 6 hours shows engineering expertise. AI reconstruction consuming 30-40% of ship processing demonstrates computational costs. Files emerging reverse chronologically over hours/days creates realistic timeline. Not magic—brute-force pattern recognition.
+
+**Ideological Antagonist (v7 addition)**
+Webb as ideological plant (not victim) creates compelling debate. Democracy vs Republic argument explores citizenship themes without preaching. Tanaka's interrogation shows you can't convince fanatics with facts. Webb believes his ideology despite consequences—realistic portrayal of radicalization.
+
+**Act II Setup Integrated (v7 addition)**
+"Aurelius" handler and underground movement established through investigation. Webb as one cell of larger network. Tanaka's Counter-Intelligence investigation continuing. Sets up Act II conspiracy subplot organically without telegraphing.
+
+**AI Processing Load Effects (v7 addition)**
+Crew experiencing network slowdowns throughout ship. Terminals buffering, entertainment systems lagging. Engineering team complaining about slow damage assessments. Shows AI isn't magic—has computational costs that impact operations.
+
+**Engineering Challenges Realistic (v7 addition)**
+Torres's 35-minute build shows real problem-solving: harmonic interference, power coupling issues, improvised solutions using jump drive regulators. Conference call collaboration with Adeyemi. Shield duration variance (5-25 minutes) acknowledged as uncertainty, not glossed over.
+
+**Mathematical Connection Established Early (v5/v7)
 Adeyemi notices the similarity between phase-shield mathematics and jump drive principles immediately (lines 21-36). He doesn't include this in his transmission, but the observation is made. This sets up Torres-Adeyemi collaboration in Act II organically.
 
 Contubernium Structure Detailed (v5 addition)
@@ -48,15 +100,24 @@ Memorial service demonstrates Confederation's multi-faith approach with 5 chapla
 Historical Context for Traditions (v5 addition)
 Chen's grandfather was a First Generation legionary 150 years ago (line 62). The gladius Chen carries belonged to him (lines 63, 104). This links current events to founding traditions, showing cultural continuity.
 
-Specific Tactical Numbers (v5 addition)
-160 rescued personnel, 40 injured from high-g extraction (line 221), 42 legionaries KIA (line 278). The costs are specific and tracked, not vague.
+**Specific Tactical Numbers (v5/v7)**
+Casualties tracked specifically: 81 total dead, 139 wounded. 120 civilians survived from 170 aboard. 34 legionaries survived from 80. Thompson's sacrifice named and shown. Costs are specific and meaningful.
 
-What's Not Working (Still Needs Expansion in v5)
-Rushed Opening Section
-The transition from artifact discovery to Krell attack still happens quickly. While v5 establishes the three-week timeline (lines 10-18), we don't experience Adeyemi's research process in detail. Need to show the weeks of study, failed experiments, and incremental progress.
+**Thompson's Sacrifice (v7 addition)**
+Combat engineer staying behind to blow reactor is named character from Chen's contubernium. Decision shown, not told. Chen wrestling with necessity. Thompson calm and professional. "Your family will know you did your duty." Makes sacrifice personal and meaningful.
 
-Webb Only Exists in Exposition
-Webb is mentioned as traitor through Tanaka's investigation but we never meet him alive, see his perspective, or understand his emotional journey. His betrayal feels like plot device rather than character tragedy (lines 254-273).
+**Character Consistency Maintained (v7 addition)**
+Chen's 18 years service corrected. Williams → Thompson name change preserves Sarah Williams for Act III. Hassan → Davis preserves Jamal Hassan for Act III. Varro's enlisted background (8 years) added and integrated into her perspective.
+
+## What's Not Working (Still Needs Expansion in v7)
+
+**Rushed Opening Section**
+The transition from artifact discovery to Krell attack still happens quickly. While the three-week timeline is established, we don't experience Adeyemi's research process in detail. Need to show the weeks of study, failed experiments, and incremental progress.
+
+**Webb's Pre-Crisis Characterization (PARTIALLY ADDRESSED in v7)**
+v7 improvement: Webb now appears as living character during interrogation with ideological debate, making him a compelling antagonist rather than plot device.
+
+Still needed: Webb's pre-crisis life on station not shown. We meet him only during interrogation. Need to see his alienation developing, his recruitment, his rationalization. Make readers understand (not agree with) his path to betrayal before it happens.
 
 Limited Pre-Crisis Worldbuilding
 We see the station during crisis, but limited daily life beforehand. What's normal routine? How do researchers and legionaries interact? What makes this community worth saving beyond strategic importance?
@@ -73,15 +134,27 @@ The gladius combat and phase-shock are described (lines 110-152), but could be m
 Extraction Injuries Told Not Felt
 We're told bones break during high-g extraction (line 216), but we don't experience specific people's trauma. Need individual stories of injury and pain.
 
-Tanaka Investigation in Summary
-Her discovery of Webb's betrayal is efficient exposition (lines 254-273), but we don't see her methodical investigation work. Her suspicious nature is told, not shown.
+**Tanaka Investigation (ADDRESSED in v7)**
+v7 improvement: Investigation shown through multiple scenes:
+- Murder discovery by Rodriguez/Park
+- Tanaka identifying 5 suspects, tracing unauthorized transmissions
+- Interrogating Morrison/Park (distillery red herring)
+- Eliminating alibis for Kwan and Davis
+- Webb's interrogation with ideological debate
+- Data forensics with Torres building memory core reader
+- Files emerging reverse chronologically
+- Final report to Varro with Act II setup
+
+Her methodical, suspicious nature demonstrated through action, not told.
 
 Limited Emotional Processing
 The memorial service exists (v5 addition), but immediate grief and shock after combat is brief. People process trauma differently—need varied reactions.
 
-Expansion Opportunities to Reach 90k Words
+## Expansion Opportunities to Reach 90k Words
 
-1. Extended Opening: Pre-Crisis Station Life (18,000 words)
+**Note:** v7 has added ~1,965 words through investigation subplot, engineering detail, and character development. Remaining expansion needed: ~79,535 words.
+
+### 1. Extended Opening: Pre-Crisis Station Life (18,000 words)
 
 Chapter 1: The Artifact Discovery (in real-time)
 - Adeyemi's surface expedition shown dramatically
@@ -703,4 +776,41 @@ Emotional Impact:
 - Extraction harrowing and painful
 - Ending satisfying while setting up continuation
 
-This expansion plan takes Act I v5 from ~8,500 words to 90,000 words, maintaining its role as foundation for the trilogy while deepening character development, worldbuilding, and action sequences.
+This expansion plan takes Act I from current v7 (10,465 words) to target 90,000 words, maintaining its role as foundation for the trilogy while deepening character development, worldbuilding, and action sequences.
+
+---
+
+## v7 Accomplishments Summary
+
+**Successfully Implemented (~1,965 words added):**
+
+✅ **Murder Mystery Subplot** - Rodriguez/Park discovery, 5 suspects, distillery red herring, Webb interrogation
+✅ **Tanaka Investigation Scenes** - Multiple investigation sequences showing professional detective work
+✅ **Data Forensics Detail** - Torres building memory core reader, AI reconstruction, computational costs
+✅ **Webb as Living Character** - Interrogation scenes, ideological debate, compelling antagonist
+✅ **AI Processing Load Effects** - Network slowdowns, crew complaints, showing computational reality
+✅ **Engineering Realism** - Torres's 35-minute build with real challenges and collaboration
+✅ **Character Consistency** - Chen 18 years, Varro's background, name fixes (Thompson, Davis)
+✅ **Act II Setup** - Aurelius handler, underground movement, investigation continuing
+✅ **Thompson's Sacrifice** - Named character from contubernium, decision shown meaningfully
+
+**Still Needed for 90k Target (~79,535 words):**
+
+⏳ **Pre-Crisis Station Life** - Daily routines, community establishment, emotional investment
+⏳ **Adeyemi's Research Process** - Weeks of study shown in real-time, not summary
+⏳ **Webb's Pre-Crisis Development** - Alienation, recruitment, rationalization before betrayal
+⏳ **Johnson's Last Stand** - Currently summarized, needs full scene
+⏳ **Combat Sequence Enhancement** - More visceral, sensory, individual moments
+⏳ **Extraction Injuries Detail** - Specific people's trauma experienced, not told
+⏳ **Extended Aftermath** - Varied emotional processing, medical bay scenes
+⏳ **Supporting Cast Development** - More legionaries established before casualties
+⏳ **Worldbuilding Integration** - Confederation context, Krell details, military culture
+
+**Pacing Balance (v7):**
+- Investigation: ~36% (~3,767 words)
+- Rescue/Combat/Action: ~64% (~6,698 words)
+- Total: 10,465 words
+- User approved current balance as natural and well-integrated
+
+**Next Steps:**
+Continue expansion focusing on pre-crisis establishment, combat viscerality, and aftermath emotional processing while maintaining the strong investigation subplot foundation established in v7.

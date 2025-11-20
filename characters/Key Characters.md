@@ -62,7 +62,7 @@ Ground-level tactical leader, boarding specialist, represents legionary perspect
 
 **Background:**
 
-- 8 years service at start of Act I
+- 18 years service at start of Act I (15 years enlisted, promoted to centurion 3 years ago)
 - Carries grandfather's gladius—family connection to first legionary generation
 - Specializes in boarding actions and close-quarters combat
 - Shows exceptional phase tolerance (95th percentile)
@@ -278,7 +278,7 @@ Represents senior leadership perspective—sees larger strategic picture, deals 
 
 "Innovation is necessary. Recklessness is fatal. Knowing the difference is why I have this job."
 
-## Master Sergeant/Primus Pilus David "Anvil" Kowalski
+## Master Sergeant/Primus Pilus David Kowalski
 
 **Role: **
 
@@ -287,7 +287,6 @@ Senior NCO, centurion system exemplar, institutional memory
 **Background:**
 
 - 18 years service at start
-- Called "Anvil" because enemies break against his defensive positions
 - Commands legionary detail aboard Resolute
 - Trains every new legionary personally
 - Promoted to Primus Pilus (senior centurion) by Act III
@@ -495,21 +494,90 @@ Carrier commander, sacrifice for mission
 
 Exemplifies professional dedication—makes correct tactical decision knowing personal cost, demonstrates that carrier positioning requirement creates real vulnerabilities and requires real sacrifice. Shows women in ship command making high-stakes tactical decisions under fire.
 
-## Lieutenant Alex Morrison (Act I)
+## Lieutenant Tessa Morrison (Act I)
 **Role:**
 
-Shuttle pilot, extraction specialist
+Shuttle pilot, extraction specialist (female)
 
 **Background:**
 
-- Pilots first shuttle with phase-shield to Obsidian
+- Pilots Shuttle Two with phase-shield to Obsidian
 - Executes high-g extraction injuring many but saving lives
-- Demonstrates pilot competence under pressure
+- Demonstrates pilot competence under pressure and phase-tolerance
 - 6 years service, specialized in high-risk extraction operations
+- Part of predominantly female shuttle pilot corps (80% female pilots)
 
 **Significance:**
 
-Represents support roles making operations possible—boarding specialists get attention, but pilots get them there.
+Represents support roles making operations possible—boarding specialists get attention, but pilots get them there. Demonstrates phase-tolerance under pressure.
+
+## Lieutenant Sara Chen (Act I)
+**Role:**
+
+Shuttle copilot, Shuttle Five (female)
+
+**Background:**
+
+- Copilot on Shuttle Five during Obsidian rescue
+- Takes over piloting when main pilot suffers phase-intolerance
+- Successfully stabilizes tumbling shuttle and completes extraction
+- Demonstrates exceptional competence and adaptability under crisis
+- Phase-tolerant with good recovery time (15 seconds)
+
+**Significance:**
+
+Shows adaptability and competence under unexpected crisis. Represents the depth of talent in support roles—backup personnel who can step up when needed.
+
+## Legionary Davis (Act I)
+**Role:**
+
+Member of Chen's contubernium (female)
+
+**Background:**
+
+- Part of Chen's eight-person contubernium at Obsidian Station
+- Participates in first phase-shield combat operation
+- Demonstrates moderate phase-tolerance (30 seconds to adapt)
+- Provides covering fire while phased teammates recover
+- Survives Obsidian evacuation
+
+**Significance:**
+
+Shows gender integration in front-line combat units. Demonstrates realistic variation in phase-tolerance—not everyone adapts quickly, but professionals push through.
+
+## Legionary Kim (Act I)
+**Role:**
+
+Combat engineer, member of Chen's contubernium (female)
+
+**Background:**
+
+- Qualified in basic engineering like all legionaries
+- Part of Chen's contubernium at Obsidian Station
+- Assists Thompson in welding reinforcement plates and rigging charges
+- Participates in first phase-shield combat
+- Survives Obsidian evacuation
+
+**Significance:**
+
+Shows women in combat engineering roles. Demonstrates that basic engineering competence is expected of all legionaries regardless of gender or specialty.
+
+## Legionary Okonkwo (Act I)
+**Role:**
+
+Member of Chen's contubernium (female)
+
+**Background:**
+
+- Part of Chen's contubernium at Obsidian Station
+- Participates in first phase-shield combat operation
+- Precise gladius strikes despite phase disorientation
+- Close-quarters combat specialist
+- Survives Obsidian evacuation
+
+**Significance:**
+
+Shows women in direct melee combat roles. Demonstrates precision and competence in brutal close-quarters fighting.
 
 # Character Development Principles
 
