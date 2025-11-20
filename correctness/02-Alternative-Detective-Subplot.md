@@ -6,9 +6,11 @@
 3. Maintain thematic resonance with Roman civic values
 4. Don't contradict established worldbuilding
 
+**Last Updated**: 2025-01-20 (reviewed against Act I v7)
+
 ---
 
-## THE ORIGINAL SUBPLOT (INCOMPATIBLE)
+## THE ORIGINAL SUBPLOT (STILL INCOMPATIBLE IN v7)
 
 **What happens in v5**:
 - Dr. Webb leaks research data to Krell
@@ -17,11 +19,23 @@
 - Senate passes three-tier citizenship reform
 - Tribune system provides oversight
 
-**Why it doesn't work**:
+**What changed in v7**:
+- ✅ Added murder mystery: Rodriguez/Park discover Miller's body
+- ✅ Webb made living character for interrogation (not dead victim)
+- ✅ Added "Aurelius" handler recruiting Webb
+- ✅ Underground democratic movement established
+- ✅ Democracy vs Republic ideological debate
+- ✅ Investigation scenes with data forensics, distillery red herring
+- ❌ **STILL relies on citizenship contradiction**: Webb's 9-year resentment, underground movement recruiting "excluded" people
+
+**Why it still doesn't work**:
 - Stellar Republic already has tiered citizenship (Non-Citizen → Junior Resident → Resident → Full)
 - 8 years grants Resident Citizenship with local voting rights
-- The "excluded long-serving people" problem doesn't exist in the established system
-- Reform narrative contradicts 600 years of institutional history
+- Webb at 9 years would have Resident Citizenship, not be "excluded"
+- The underground democratic movement's recruitment narrative contradicts established system
+- **v7 Impact**: Enhanced investigation scenes make the contradiction MORE prominent—we see Webb's motivation in detail, but it's built on a false premise
+
+**v7 Assessment**: Improved investigation mechanics (murder mystery, interrogation, handler network) but didn't resolve core worldbuilding conflict. The alternatives below remain relevant.
 
 ---
 
@@ -299,3 +313,36 @@ Webb's motivation wasn't lack of citizenship—it was resentment about **Auxilia
 - Inter-factional technology competition
 
 This gives you everything the citizenship reform subplot provided (detective work, institutional exploration, moral complexity) without contradicting the Stellar Republic's established tiered citizenship system.
+
+---
+
+## v7 INTEGRATION NOTE
+
+**What v7 got right that should be kept:**
+- ✅ Murder mystery opening (Rodriguez/Park finding Miller's body)
+- ✅ Webb as living antagonist for interrogation
+- ✅ Data forensics with Torres building memory core reader
+- ✅ AI reconstruction showing computational costs
+- ✅ Distillery red herring (Morrison/Park subplot)
+- ✅ Files emerging reverse chronologically
+- ✅ Investigation interrupted by Krell attack, continuing during stranding
+- ✅ Tanaka's methodical detective work
+
+**What needs changing to align with Stellar Republic:**
+- ❌ Webb's citizenship-based resentment → Replace with Option 1, 2, or 3 motivation
+- ❌ "Aurelius" handler recruiting based on citizenship exclusion → Replace with artifact tracking (Option 1), Meridian infiltration (Option 2), or tech smuggling (Option 3)
+- ❌ Underground democratic movement → Replace with artifact network (Option 1), Meridian sleeper cells (Option 2), or black market ring (Option 3)
+- ❌ Democracy vs Republic debate → Can keep as ideological flavor, but reframe Webb's actual motivation
+
+**Recommended hybrid approach:**
+1. **Keep v7's investigation structure** (murder, data forensics, interrogation scenes)
+2. **Replace Webb's motivation** with Option 1 (Artifact Network):
+   - Webb recruited because he had access to Adeyemi's artifact research
+   - "Aurelius" is Kelar agent (or intermediary) tracking precursor technology
+   - Miller killed because she discovered Webb was reporting artifact details, not just general research
+   - Underground movement becomes: Network of researchers tracking artifacts across Republic
+   - Democracy debate becomes: Webb radicalized by Kelar agents exploiting human psychology
+3. **Act II expands**: Tanaka discovers artifact pattern, Kelar connection, galactic context
+4. **Act III**: First contact implications replace citizenship reform
+
+This preserves all v7's investigation improvements while fixing the worldbuilding contradiction.
