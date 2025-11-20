@@ -65,13 +65,13 @@ git push origin main          # Share your work
 ```
 
 **On Machine B (evening writing):**
-```bash
-git pull origin main          # Get what you did this morning
-# ... write ...
-git add .
-git commit -m "Chapter 5: Completed and revised"
-git push origin main
-```
+	```bash
+	git pull origin main          # Get what you did this morning
+	# ... write ...
+	git add .
+	git commit -m "Chapter 5: Completed and revised"
+	git push origin main
+	```
 
 **Working with Claude or other tools:**
 Same principle - Claude works on the `claude/*` branches and you work on `main`, but you can merge Claude's work when ready.
