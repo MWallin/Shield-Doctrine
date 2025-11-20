@@ -4,7 +4,7 @@
 
 **Shield Doctrine** is a military science fiction trilogy set in a Roman-inspired stellar republic in 2750 CE. The story focuses on professional competence, earned citizenship, and infrastructure as the foundation of civilization.
 
-**Current Development Status:** Story v5 with comprehensive Roman principles integration
+**Current Development Status:** Act I v7 with investigation subplot, Acts II-III v5
 
 **Genre:** Hard military sci-fi with emphasis on tactical realism and professional competence
 
@@ -16,7 +16,10 @@
 - **world-building/The Stellar Republic.md** - Political and civic structure (3,200+ lines)
 
 ### ACTIVE STORY VERSION
-- **chapters/*Story v5.md** - Current working versions of all three acts
+- **chapters/Act I - Story v7.md** - Current Act I with investigation subplot (10,465 words)
+- **chapters/Act II - Story v5.md** - Current Act II
+- **chapters/Act III - Story v5.md** - Current Act III
+- **chapters/Act I - Story v6.md** - Previous Act I version (reference)
 - **chapters/*Improvements.md** - Analysis and enhancement notes for each act
 
 ### SUPPORTING MATERIALS
@@ -28,6 +31,95 @@
 ### WORKING DIRECTORIES (Not Canonical)
 - **_notes/** - Temporary notes and scratch work
 - **_process/** - Process documentation and workflow notes
+
+## Git Workflow & Version Control
+
+### Commit Frequency (IMPORTANT)
+**Commit early and often** to preserve work and maintain clear history:
+
+- **After every major text change** (~500-1000 words written or significant scene revision)
+- **After completing a logical unit** (scene, character profile, investigation sequence)
+- **Before and after major refactoring** (character name changes, plot restructuring)
+- **At natural stopping points** (end of writing session, before switching tasks)
+
+**Rule of thumb:** If you've been working for 30-60 minutes without committing, commit now.
+
+### Daily Workflow Pattern
+
+**Starting work:**
+```bash
+git pull origin main          # Get latest changes
+git status                    # Check current state
+```
+
+**During work:**
+```bash
+# After each meaningful change (every 30-60 minutes):
+git add .
+git commit -m "Clear description of what changed"
+
+# Examples of good commit messages:
+# "Act I: Add murder mystery investigation scenes (lines 40-122)"
+# "Characters: Update Chen's service time to 18 years"
+# "Fix: Rename Williams → Thompson to preserve Act III character"
+```
+
+**Ending work:**
+```bash
+git add .
+git commit -m "Description of final changes"
+git push origin main          # Share your work
+```
+
+### Claude's Workflow Responsibilities
+
+When working with Claude (that's me!):
+
+1. **I will remind you to commit** after substantial changes to story files
+2. **I will commit automatically** after:
+   - Major text additions (>1000 words)
+   - Character consistency fixes across multiple files
+   - Documentation updates that complete a task
+3. **I will suggest commit points** when we've been working for extended periods
+4. **I will create clear commit messages** that describe what changed and why
+
+### What Makes a Good Commit
+
+✅ **Good commits:**
+- "Act I v7: Add investigation subplot with Webb interrogation"
+- "Characters: Add gender markers for Davis, Kim, Okonkwo"
+- "Fix: Change Morrison to rank/last name during duty situations"
+- "Update Act I Improvements.md for v7 progress (10,465 words)"
+
+❌ **Bad commits:**
+- "updates" (too vague)
+- "fixes" (what did it fix?)
+- "changes" (meaningless)
+
+### Milestone Tags
+
+Create tags for major milestones:
+```bash
+git tag -a v1.0-act-I-complete -m "Act I first complete draft"
+git push origin v1.0-act-I-complete
+```
+
+**When to tag:**
+- First complete draft of each act
+- Major revision milestones
+- Before structural changes
+- Beta reader versions
+
+### Emergency Recovery
+
+**If you need to undo changes:**
+```bash
+git restore filename          # Undo uncommitted changes
+git log                      # See history to find previous version
+git checkout abc1234 -- filename  # Restore from specific commit
+```
+
+See `_process/GIT-WORKFLOW-FOR-WRITERS.md` for complete git reference.
 
 ## Hard Constraints (Cannot Violate)
 
@@ -147,10 +239,11 @@
 ## Common Collaboration Tasks
 
 ### Story Development
-1. Check current v5 files in `chapters/`
+1. Check current versions in `chapters/` (Act I v7, Acts II-III v5)
 2. Reference corresponding Improvements docs for analysis
 3. Verify consistency with Worldbuilding Consistency Guide
 4. Check Roman Principles Integration Guide for opportunities
+5. **Commit after major changes** (see Git Workflow section)
 
 ### Character Work
 1. Maintain consistency with `characters/Key Characters.md`
@@ -170,21 +263,29 @@
 3. Ensure historical parallels enhance rather than constrain story
 4. Balance authenticity with narrative needs
 
-## Version Control Notes
+## Version History
 
-- **v5 is current** - Earlier versions retained for reference only
-- Check git status for active work areas
-- Modified files indicate ongoing development focus
-- Untracked folders (`_notes/`, `_process/`) are working directories
+- **Act I v7** - Current with investigation subplot, murder mystery, character fixes (10,465 words)
+- **Act I v6** - Character consistency improvements, previous version
+- **Acts II-III v5** - Current working versions
+- Earlier versions retained for reference only
+- Untracked folders (`_notes/`, `_process/`) excluded by .gitignore
 
 ## Key Story Beats (Spoiler Warning)
 
-**Act I - Obsidian Station:**
+**Act I - Obsidian Station (v7):**
 - Dr. Adeyemi discovers phase-variance shields from mysterious artifact
-- Krell attack station (someone leaked intel)
+- Rodriguez and Park discover Sarah Miller murdered with encrypted data drive
+- Tanaka investigates: 5 suspects, unauthorized transmissions to Krell
+- Krell attack station (coordinates leaked weeks ago, timed to supply arrival)
 - Centurion Chen's century holds the line while researchers evacuate
-- Torres improvises working shields in 14 minutes
-- Varro makes emergency jump with incomplete calculations
+- Conference call: Varro, Torres, Chen, Adeyemi plan rescue with phase-shields
+- Torres builds working shields in 35 minutes with real engineering challenges
+- Varro makes emergency jump with incomplete calculations (4 days stranded)
+- Investigation during stranding: Torres builds memory core reader, AI reconstructs files
+- Tanaka interrogates suspects: distillery red herring, Webb as ideological traitor
+- Webb interrogation: Democracy vs Republic debate, refuses to recant
+- Act II setup: Webb's handler "Aurelius" and underground movement revealed
 
 **Act II - Typhon:**
 - 6 weeks of systematic training and doctrine development
