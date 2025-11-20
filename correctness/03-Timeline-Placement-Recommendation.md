@@ -2,6 +2,8 @@
 
 **Purpose**: Determine where in the Stellar Republic's 600-year history this story should take place.
 
+**Last Updated**: 2025-01-20 (reviewed against Act I v7 - no timeline changes from v5)
+
 ---
 
 ## STELLAR REPUBLIC TIMELINE SUMMARY

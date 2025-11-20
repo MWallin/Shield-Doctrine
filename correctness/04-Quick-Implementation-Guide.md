@@ -1,10 +1,19 @@
-# Quick Implementation Guide: Aligning Story v5 with Stellar Republic
+# Quick Implementation Guide: Aligning Story v7 with Stellar Republic
 
 **Purpose**: Step-by-step checklist for revising the story to match Stellar Republic worldbuilding.
+
+**Last Updated**: 2025-01-20 (reviewed against Act I v7)
+
+**Current Scope**: Act I v7 (~10,465 words), Acts II-III v5
 
 ---
 
 ## PHASE 1: SIMPLE FIND-REPLACE CHANGES
+
+**v7 Impact Estimates:**
+- **"Confederation"**: ~200+ instances in Act I v7 alone
+- **"Krell"**: ~100+ instances in Act I v7 alone
+- Acts II-III v5 have additional instances
 
 ### Terminology Changes:
 
@@ -17,6 +26,12 @@ EXAMPLES:
 - "Confederation Command" → "Republic Command"
 - "Confederation military" → "Republic military"
 - "Confederation Legionaries" → "Republic Legionaries"
+
+v7 INSTANCES (Act I):
+- Line 239: "Commander Sarah Varro had served fifteen years in the Confederation military"
+- Line 273: "From Resolute: Varro, Torres, and six shuttle pilots"
+- Throughout investigation scenes
+- ~200+ total in Act I v7
 ```
 
 ```
@@ -28,6 +43,17 @@ EXAMPLES:
 - "Krell ships" → "Meridian ships"
 - "Krell attack" → "Meridian attack"
 - "Krell security teams" → "Meridian security teams"
+
+v7 INSTANCES (Act I):
+- Investigation: Webb leaked coordinates to Krell
+- Combat: Krell assault on Obsidian Station
+- Throughout escape sequence
+- ~100+ total in Act I v7
+
+NOTE: Decide whether to:
+- Replace all with "Meridian Empire"
+- Keep "Krell" as Stellar Republic faction name
+- Make "Krell" alternate name for Meridian
 ```
 
 **Note**: Keep "Krell" if referring to technology (e.g., "reverse-engineered from Krell technology" can become "reverse-engineered from captured Meridian technology")
@@ -39,18 +65,26 @@ EXAMPLES:
 ### Current Problem:
 Story treats citizenship as binary and introduces three-tier reform.
 
+**v7 Status**: UNRESOLVED. Act I v7 expanded investigation scenes but didn't fix citizenship contradiction. Webb's motivation and "Aurelius" handler network still rely on flawed premise.
+
 ### Solution:
-Republic already has tiered citizenship. Adjust Webb's motivation and reform subplot.
+Republic already has tiered citizenship. Must adjust Webb's motivation and reform subplot.
+
+**Recommended Approach (see document 02 for details):**
+Replace citizenship-based motivation with Artifact Network investigation (Option 1)
 
 ### Specific Changes:
 
-**Webb's Status (Act I & II):**
+**Webb's Status (Act I v7 & Acts II-III):**
 
-BEFORE (v5):
-> Webb served nine years in civilian research roles, but that only counted as civic service. He needed twelve years for full citizenship.
+CURRENT (v7):
+> Webb served nine years in civilian research roles and felt excluded from citizenship. Recruited by handler "Aurelius" who exploited this resentment. Part of underground democratic movement. Democracy vs Republic debate during interrogation.
 
-AFTER (aligned):
-> Webb served nine years in civilian research roles. Under Republic law, eight years grants Resident Citizenship with local voting rights and most civic benefits. But Webb wanted Full Citizenship—the right to vote for Federal Senate, hold high office, and shape Republic policy. That required twelve years of service plus passing the rigorous citizenship examination. He was one year away and felt excluded from the highest levels of power despite his contributions.
+PROBLEM:
+> Under Stellar Republic law, Webb would have Resident Citizenship after 8 years. He's not "excluded"—he has local voting rights and most civic benefits. Only 1-3 years from Full Citizenship.
+
+RECOMMENDED FIX (Option 1 - Artifact Network):
+> Webb served nine years in civilian research giving him Resident Citizenship. But handler "Aurelius" recruited him for specific reason: access to Adeyemi's artifact research. "Aurelius" is Kelar agent (or intermediary) tracking precursor technology across Republic. Webb radicalized through manipulation, believing artifact research should be shared. Miller killed when she discovered Webb reporting artifact details, not general research data.
 
 **The Reform Subplot (Act II, Week 26):**
 
