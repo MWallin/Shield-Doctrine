@@ -13,7 +13,10 @@
 ### PRIMARY REFERENCES (Must Respect)
 - **Worldbuilding Consistency Guide.md** - CANONICAL constraints that cannot be violated
 - **correctness/Roman Principles Integration Guide.md** - Roman integration requirements and opportunities
-- **world-building/The Stellar Republic.md** - Political and civic structure (3,200+ lines)
+- **world-building/The Stellar Republic - *.md** - Political and civic structure (split into 8 focused documents):
+  - Overview, Timeline, Citizenship, Service Branches, Stellar Legions, Fleet and Ships, Auxiliary Forces, Government
+- **world-building/The Stellar Republic - General Service Structure.md** - Framework for all service branches
+- **world-building/The Stellar Republic - Vigiles Service.md** - 6th service branch (emergency services)
 
 ### ACTIVE STORY VERSION
 - **chapters/Act I - Story v7.md** - Current Act I with investigation subplot (10,465 words)
@@ -177,7 +180,7 @@ See `_process/GIT-WORKFLOW-FOR-WRITERS.md` for complete git reference.
 ### 2. Earned Citizenship Creates Stakeholder Society
 - Political rights come through service
 - Graduated tiers acknowledge contributions incrementally
-- **Tiered System:** Civic Participant (2 years) → Regional Citizen (4 years) → Federal Citizen (6 years)
+- **Tiered System:** Non-Citizen → Junior Resident (ages 0-20) → Resident Citizen (8 years service) → Full Citizen (12 years service)
 - Creates stakeholders invested in the system's success
 
 **Roman Connection:** Roman citizenship was a strategic weapon transforming conquered enemies into stakeholders. Graduated citizenship (Latini, civitas sine suffragio, full citizenship) created multiple levels of belonging.
@@ -215,7 +218,7 @@ See `_process/GIT-WORKFLOW-FOR-WRITERS.md` for complete git reference.
 ## Roman Integration Principles
 
 ### Military (Well Established)
-- Professional volunteer military (6-year service minimum)
+- Professional volunteer military (8-year service minimum for citizenship)
 - Career progression based on merit and experience
 - Combined arms doctrine
 - Systematic after-action reviews
@@ -235,6 +238,32 @@ See `_process/GIT-WORKFLOW-FOR-WRITERS.md` for complete git reference.
 - Public ceremonies and rituals
 - Engineering as prestige profession
 - Service ethos embedded in culture
+
+## Creative Writing Skills
+
+This project uses specialized creative writing skills that should be invoked automatically when appropriate:
+
+**cw-official-docs** - Use when creating or updating canonical reference documentation:
+- Worldbuilding documents (The Stellar Republic series, service branches, government structure)
+- Character profiles and faction documentation
+- Technology systems and constraints
+- Any "wiki-style" reference material that establishes canon
+
+**cw-prose-writing** - Use when drafting or editing narrative fiction:
+- Story chapters (Act I, II, III)
+- Scenes and dialogue
+- Following project style guides and conventions
+
+**cw-story-critique** - Use when analyzing story content:
+- Reviewing draft chapters for feedback
+- Analyzing pacing, character development, themes
+
+**cw-brainstorming** - Use when exploring story ideas:
+- Planning new plot elements
+- Discussing character arcs or world possibilities
+- Recording creative discussions (minimal notes, preserve freedom)
+
+**Note**: Claude should invoke these skills proactively when the task matches. You don't need to request them explicitly unless Claude forgets.
 
 ## Common Collaboration Tasks
 
