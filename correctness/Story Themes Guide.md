@@ -1,4 +1,12 @@
-Overall themes
+# Shield Doctrine: Story Themes Guide
+
+**Purpose:** Guide for maintaining thematic consistency across all Shield Doctrine stories
+**Type:** Writing guide (not worldbuilding canon)
+**Companion documents:** Noblebright Tone Guide.md, Roman Principles Integration Guide.md
+
+This document defines the 10 core themes that should be present in all Shield Doctrine stories. Use this guide when planning new stories or revising existing ones to ensure thematic coherence.
+
+---
 
 # Primary Themes
 
@@ -59,16 +67,16 @@ Political rights come through service, creating citizens invested in the system'
 **Act III:**
 
 - Citizenship reforms implemented: Civic Participant (2 years), Regional Citizen (4 years), Federal Citizen (6 years)
-- Shows Confederation learns from mistakes and addresses systemic issues
+- Shows the Republic learns from mistakes and addresses systemic issues
 - Creates stakeholder society at multiple levels
 
 **Why This Matters:**
 
-The citizenship model isn't window dressing—it's central to Confederation's identity and creates real plot tension. The Webb subplot shows system failure and drives reforms. The tiered model acknowledges modern reality that 10-12 years before recognition is too long, creating 9-year-service problem.
+The citizenship model isn't window dressing—it's central to the Republic's identity and creates real plot tension. System failures and reforms demonstrate how societies can address problems while maintaining core principles.
 
 **Roman Connection:**
 
-Roman citizenship was strategic weapon transforming conquered enemies into stakeholders. Graduated citizenship (Latini, civitas sine suffragio, full citizenship) created multiple levels of belonging. Social War showed costs of excluding people who contribute—Rome extended citizenship to prevent revolt. Modern Confederation learns same lesson.
+Roman citizenship was strategic weapon transforming conquered enemies into stakeholders. Graduated citizenship (Latini, civitas sine suffragio, full citizenship) created multiple levels of belonging. Social War showed costs of excluding people who contribute—Rome extended citizenship to prevent revolt. The Republic learns the same lesson.
 
 **Contemporary Relevance:**
 
@@ -85,7 +93,7 @@ Public works aren't optional extras—they're fundamental expressions of governm
 **Act I:**
 
 - Obsidian Station represents infrastructure investment in frontier regions
-- Research facilities extend Confederation's scientific capability
+- Research facilities extend the Republic's scientific capability
 - Torres' ability to fabricate shields depends on having proper facilities
 
 **Act II:**
@@ -96,7 +104,7 @@ Public works aren't optional extras—they're fundamental expressions of governm
 
 **Act III:**
 
-- New members join Confederation for infrastructure access (warp gates, defense grids, schools)
+- New members join the Republic for infrastructure access (warp gates, defense grids, schools)
 - Engineering Corps builds military and civilian infrastructure simultaneously
 - Long-term planning (100-year design life) contrasts with short-term thinking
 
@@ -264,24 +272,24 @@ Treating defeated enemies humanely isn't weakness but strength, creating opportu
 
 **Act I:**
 
-- Varro accepts Krell surrender at Obsidian rather than continuing slaughter
+- Varro accepts enemy surrender rather than continuing slaughter
 - Survivors extracted despite being enemies
 
 **Act II:**
 
-- Krell prisoners treated according to legal standards
+- Prisoners treated according to legal standards
 - Interrogation professional, not torture
 - Information gathered used strategically
 
 **Act III:**
 
-- Krell fleet admiral's surrender accepted
+- Enemy fleet admiral's surrender accepted
 - Post-battle treatment humane
-- Peace accords show clementia creates strategic benefits (Krell become potential future allies)
+- Peace accords show clementia creates strategic benefits (defeated enemies may become future allies)
 
 **Why This Matters:**
 
-Clementia is explicit Confederation value. Story shows it's practical, not just moral—Krell warnings about galactic core threats become valuable intelligence. Future cooperation possible because defeated enemies remember how they were treated. Contrast with Krell's no-quarter approach.
+Clementia is explicit Republic value. Story shows it's practical, not just moral—intelligence from defeated enemies becomes valuable. Future cooperation possible because defeated enemies remember how they were treated. Demonstrates how mercy serves strategic interests.
 
 **Roman Connection:**
 
@@ -345,13 +353,13 @@ The universe contains mysteries beyond current understanding—ancient technolog
 **Act III (Epilogue):**
 
 - Adeyemi studies artifact, sees deeper patterns
-- Krell warnings about galactic core threats
+- Warnings about galactic threats
 - Colony ships going missing
-- Unknown whether artifact related to core threat
+- Unknown whether artifact related to broader threats
 
 **Why This Matters:**
 
-Creates sense of larger universe with deeper history. Phase-shields aren't just clever engineering—they're possibly derived from ancient technology. Jump drives' origin unknown. Something in galactic core scared Krell enough to drive expansion. Sets up future stories while maintaining mystery.
+Creates sense of larger universe with deeper history. Phase-shields aren't just clever engineering—they're possibly derived from ancient technology. Jump drives' origin unknown. Sets up future stories while maintaining mystery.
 
 **Story Integration:**
 Mystery never overwhelms main narrative. Act I-III focus on Shield Doctrine development and Hammerfall battle. Artifact provides technology but doesn't explain itself. Epilogue raises questions for future stories without requiring immediate answers. Mystery serves story rather than story serving mystery.
@@ -376,7 +384,7 @@ Obsidian Station creates crisis forcing innovation. Phase-shields work but requi
 **Primary Themes:**
 
 - Innovation within institutional frameworks (Torres-Adeyemi collaboration)
-- Earned citizenship vulnerability (Webb investigation)-
+- Earned citizenship vulnerability (Webb investigation)
 - Mission command philosophy (multiple simultaneous boarding operations)
 - Professional development (6 weeks training)
 
@@ -392,7 +400,7 @@ Time skip allows systematic improvement. Investigation reveals citizenship syste
 - Primary group cohesion (contubernium bonds carry people through)
 - Meaningful sacrifice (Park's carrier, 136 KIA)
 - Infrastructure as strategic foundation (manufacturing limits, training capacity)
-- Mercy to enemies (Krell surrender and post-war cooperation)
+- Mercy to enemies (surrenders and post-war cooperation)
 
 **Theme Delivery:**
 
@@ -441,4 +449,3 @@ Themes speak to contemporary concerns:
 - Balance innovation and institutions?
 - Professional military in democracy?
 - Technology's proper role?
-

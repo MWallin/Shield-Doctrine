@@ -1,3 +1,13 @@
+# Key Technology Systems
+
+**Status:** Canonical technical reference for Shield Doctrine universe
+**Last Updated:** 2025-01-27
+**Aligns with:** The Stellar Republic worldbuilding
+
+**⚠️ PENDING REVIEW:** Jump drive technology origin and distribution needs to be revisited. Current references to various factions acquiring this technology need alignment with the finalized faction structure (Corporate Syndicate as primary antagonist, not Meridian Empire). This will be addressed in future worldbuilding refinement.
+
+---
+
 # Key Technology
 
 # Phase-Variance Shields
@@ -95,12 +105,12 @@ Objects phase with the generator but deactivate based on contact:
 
 **5. Energy Detection (Unexploited):**
 
-Phased objects may emit exotic energy signatures detectable by specialized sensors. The Krell haven't yet developed detection methods, but theoretically:
+Phased objects may emit exotic energy signatures detectable by specialized sensors. No known faction has yet developed reliable detection methods, but theoretically:
 
 - Neutrino emissions might be abnormal
 - Quantum entanglement patterns might be detectable
 - Gravitational microdistortions might register
-- This remains an unexploited vulnerability the Confederation worries about.
+- This remains an unexploited vulnerability the Republic worries about.
 
 ## Phase Tolerance (Individual Variation)
 
@@ -192,7 +202,7 @@ Phase-variance generators are sophisticated devices requiring:
 
 **Supply Chain:**
 
-By Act III, Confederation produces ~200 personal generators per week across multiple facilities. This limits how fast Shield Doctrine can scale—can't equip thousands of legionaries overnight.
+By Act III, the Republic produces ~200 personal generators per week across multiple facilities. This limits how fast Shield Doctrine can scale—can't equip thousands of legionaries overnight.
 
 ## Future Development Possibilities
 **Potential Improvements:**
@@ -437,7 +447,7 @@ Anchor pairs are sophisticated and expensive:
 
 **Supply Chain:**
 
-By Act III, Confederation produces ~4-6 anchor pairs per week. This severely constrains how fast Shield Doctrine can expand—can't equip dozens of assault carriers overnight.
+By Act III, the Republic produces ~4-6 anchor pairs per week. This severely constrains how fast Shield Doctrine can expand—can't equip dozens of assault carriers overnight.
 
 ## Future Development Possibilities
 
@@ -465,7 +475,7 @@ The mathematical connection between phase-variance, warp corridors, and jump dri
 
 ## Core Principle
 
-Jump drives compress space between two points, allowing near-instantaneous transit across interstellar distances. The Confederation reverse-engineered this technology from captured Krell vessels ~5 years before current setting.
+Jump drives compress space between two points, allowing near-instantaneous transit across interstellar distances. The Republic acquired this technology relatively recently through means still being documented in the worldbuilding (see header note for pending review).
 
 
 ## Technical Specifications
@@ -591,34 +601,35 @@ Jump drives consume enormous energy:
 - Limits operational tempo
 - Cannot jump continuously without resupply
 
-## Confederation Limitations
+## Republic Experience Level
 
-**Incomplete Mastery:**
+**Technological Maturity:**
 
-The Confederation only acquired jump technology 5 years ago:
+The Republic acquired jump technology relatively recently:
 
-- Still learning optimal procedures
-- Jump calculations less reliable than Krell's
-- Cell manufacturing more expensive
-- Doctrine still developing
+- Still refining optimal procedures
+- Jump calculations improving with experience
+- Cell manufacturing becoming more efficient
+- Doctrine evolving through operational use
 
-**Krell Advantage:**
+**Factional Differences:**
 
-Krell have decades of jump drive experience:
+Different stellar nations have varying levels of jump drive expertise:
 
+- Some factions have decades more experience
 - Better calculations (faster and more accurate)
 - More efficient cell designs
 - Superior emergency jump procedures
-- Institutional knowledge Confederation lacks
+- Institutional knowledge varies significantly
 
 **Mysterious Origin:**
 
-Neither Confederation nor Krell invented jump drives:
+Jump drives' ultimate origin remains unclear:
 
-- Krell won't reveal where they got technology
-- Could be: discovered artifact, stolen from precursors, independent invention
-- Unknown if other civilizations possess similar capability
-- Mystery suggests broader galactic history
+- No single faction claims to have invented the technology
+- Could be: discovered artifact, stolen from precursors, independent invention by unknown party
+- Multiple civilizations possess similar capability
+- Mystery suggests broader galactic history and possible ancient precursor technology
 
 ## Safety Protocols
 
@@ -648,9 +659,9 @@ Neither Confederation nor Krell invented jump drives:
 
 ## Future Development
 
-**Confederation Goals:**
+**Republic Goals:**
 
-- Match Krell calculation speed and accuracy
+- Match the calculation speed and accuracy of more experienced factions
 - Develop cheaper jump cell manufacturing
 - Extend maximum reliable range
 - Reduce jump energy requirements
@@ -1004,7 +1015,7 @@ Teams train for VLC failure:
 
 **Production:**
 
-- Micro-drones: Mass-produced, 1000s per day across Confederation
+- Micro-drones: Mass-produced, 1000s per day across the Republic
 - Standard drones: Specialized manufacturing, 100s per week
 - Both require sophisticated facilities but not exotic materials
 
@@ -1063,16 +1074,16 @@ Specifications:
 - Limited ammunition capacity
 - Recoil requires stabilization
 
-**Confederation Primary Weapon:**
+**Republic Primary Weapon:**
 
-The Confederation favors kinetics for their reliability and effectiveness. Most capital ships mount multiple kinetic impeller batteries as primary armament.
+The Republic favors kinetics for their reliability and effectiveness. Most capital ships mount multiple kinetic impeller batteries as primary armament.
 
 
 ## Plasma Lances
 
 **Principle:**
 
-Superheated plasma contained in magnetic bottles, fired at near-light speed. Preferred by Krell.
+Superheated plasma contained in magnetic bottles, fired at near-light speed. Preferred by certain aggressive factions.
 
 **Specifications:**
 
@@ -1096,9 +1107,9 @@ Superheated plasma contained in magnetic bottles, fired at near-light speed. Pre
 - Visible launch (plasma glow)
 - Heat signature detectable
 
-**Krell Primary Weapon:**
+**Aggressive Faction Preference:**
 
-Krell favor plasma lances for close-range overwhelming firepower. Matches their aggressive tactical doctrine.
+Certain aggressive stellar factions favor plasma lances for close-range overwhelming firepower, matching their offensive tactical doctrines.
 
 ## Gravitic Mines
 

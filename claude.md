@@ -4,36 +4,51 @@
 
 **Shield Doctrine** is a military science fiction trilogy set in a Roman-inspired stellar republic in 2750 CE. The story focuses on professional competence, earned citizenship, and infrastructure as the foundation of civilization.
 
-**Current Development Status:** Act I v7 with investigation subplot, Acts II-III v5
+**Current Development Status:** Act I v8 with investigation subplot (aligned with Stellar Republic), Acts II-III v5
 
 **Genre:** Hard military sci-fi with emphasis on tactical realism and professional competence
+
+## Getting Started (For Claude)
+
+**IMPORTANT: When starting a new conversation or resuming work, ALWAYS review the `_process/` folder first:**
+
+1. **Read `_process/GIT-WORKFLOW-FOR-WRITERS.md`** - Understand commit expectations and workflow
+2. **Read `_process/MANAGING-DEVELOPMENT-NOTES.md`** - Understand how to handle working notes and background material
+
+These documents contain critical workflow guidance that will help you work more effectively with the user.
 
 ## Document Hierarchy (Source of Truth)
 
 ### PRIMARY REFERENCES (Must Respect)
-- **Worldbuilding Consistency Guide.md** - CANONICAL constraints that cannot be violated
+- **world-building/Shield Doctrine - Hard Constraints.md** - CANONICAL physics, tech limits, and mysterious elements
+- **world-building/Key Technology.md** - Technical specifications for all major technologies
 - **correctness/Roman Principles Integration Guide.md** - Roman integration requirements and opportunities
-- **world-building/The Stellar Republic - *.md** - Political and civic structure (split into 8 focused documents):
-  - Overview, Timeline, Citizenship, Service Branches, Stellar Legions, Fleet and Ships, Auxiliary Forces, Government
-- **world-building/The Stellar Republic - General Service Structure.md** - Framework for all service branches
-- **world-building/The Stellar Republic - Vigiles Service.md** - 6th service branch (emergency services)
+- **world-building/The Stellar Republic - *.md** - Political and civic structure (split into focused documents):
+  - Overview, Timeline, Citizenship, Service Branches, Government
+  - General Service Structure (framework for all branches)
+  - Individual service branch docs: Engineering Corps, Medical Service, Scientific Expedition, Civic Administration, Vigiles Service
+  - Military subfolder: Stellar Legions, Fleet and Ships, Auxiliary Forces
 
 ### ACTIVE STORY VERSION
-- **chapters/Act I - Story v7.md** - Current Act I with investigation subplot (10,465 words)
+- **chapters/Act I - Story v8.md** - Current Act I with investigation subplot (aligned with Stellar Republic)
 - **chapters/Act II - Story v5.md** - Current Act II
 - **chapters/Act III - Story v5.md** - Current Act III
 - **chapters/Act I - Story v6.md** - Previous Act I version (reference)
+- **chapters/Act I - Story v7.md** - Previous Act I version (reference)
 - **chapters/*Improvements.md** - Analysis and enhancement notes for each act
 
 ### SUPPORTING MATERIALS
 - **world-building/** - Technology systems, themes, settings
 - **characters/Key Characters.md** - Character profiles and development
 - **research/** - Historical Roman military and civic model reference material
+- **correctness/** - Style guides, tone guides, narrative conventions, and process guides
+  - Includes detective subplot implementation guide (02-Alternative-Detective-Subplot.md)
 - **Future Story Opportunities.md** - Potential expansions and future storylines
 
 ### WORKING DIRECTORIES (Not Canonical)
-- **_notes/** - Temporary notes and scratch work
-- **_process/** - Process documentation and workflow notes
+- **_notes/** - Active working notes and scratch work (see _process/MANAGING-DEVELOPMENT-NOTES.md)
+- **_archive/** - Completed development history and background material
+- **_process/** - Process documentation and workflow guides (READ FIRST!)
 
 ## Git Workflow & Version Control
 
