@@ -46,8 +46,8 @@ These documents contain critical workflow guidance that will help you work more 
 - **Future Story Opportunities.md** - Potential expansions and future storylines
 
 ### WORKING DIRECTORIES (Not Canonical)
-- **_notes/** - Active working notes and scratch work (see _process/MANAGING-DEVELOPMENT-NOTES.md)
-- **_archive/** - Completed development history and background material
+- **_notes/** - Active working notes and scratch work (tracked in git, see _process/MANAGING-DEVELOPMENT-NOTES.md)
+- **_archive/** - Completed development history and background material (tracked in git)
 - **_process/** - Process documentation and workflow guides (READ FIRST!)
 
 ## Git Workflow & Version Control
@@ -309,11 +309,11 @@ This project uses specialized creative writing skills that should be invoked aut
 
 ## Version History
 
-- **Act I v7** - Current with investigation subplot, murder mystery, character fixes (10,465 words)
+- **Act I v8** - Current with investigation subplot (aligned with Stellar Republic)
+- **Act I v7** - Previous with investigation subplot, murder mystery, character fixes (10,465 words)
 - **Act I v6** - Character consistency improvements, previous version
 - **Acts II-III v5** - Current working versions
 - Earlier versions retained for reference only
-- Untracked folders (`_notes/`, `_process/`) excluded by .gitignore
 
 ## Key Story Beats (Spoiler Warning)
 
