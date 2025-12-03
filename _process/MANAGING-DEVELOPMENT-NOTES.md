@@ -16,6 +16,8 @@ The goal: **Keep what's useful, archive what's historical, delete what's abandon
 
 ### **`_notes/` - Active Working Material**
 
+**Important:** This folder IS tracked in git for backup and version control purposes. All active development work is backed up to the repository.
+
 **What goes here:**
 - Current brainstorming and Q&A sessions
 - Active feedback on drafts in progress
