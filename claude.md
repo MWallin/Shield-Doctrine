@@ -254,31 +254,59 @@ See `_process/GIT-WORKFLOW-FOR-WRITERS.md` for complete git reference.
 - Engineering as prestige profession
 - Service ethos embedded in culture
 
-## Creative Writing Skills
+## Creative Writing Skills (IMPORTANT!)
 
-This project uses specialized creative writing skills that should be invoked automatically when appropriate:
+This project uses the **Creative Writing Skills plugin** - a specialized system that MUST be used for all creative writing work. These skills provide genre-appropriate guidance, maintain consistent style, and follow professional writing conventions.
 
-**cw-official-docs** - Use when creating or updating canonical reference documentation:
+**CRITICAL RULE: Always use the appropriate skill for writing tasks. Do not attempt creative writing without invoking the relevant skill first.**
+
+### Available Skills
+
+**cw-prose-writing** - **PRIMARY SKILL for all narrative fiction writing:**
+- Writing or editing story chapters (Act I, II, III)
+- Drafting new scenes and dialogue
+- Revising existing prose
+- Following project style guides and tone conventions
+- **USE THIS for any actual story writing or editing work**
+
+**cw-official-docs** - For creating/updating canonical reference documentation:
 - Worldbuilding documents (The Stellar Republic series, service branches, government structure)
 - Character profiles and faction documentation
 - Technology systems and constraints
 - Any "wiki-style" reference material that establishes canon
+- **USE THIS when documenting worldbuilding facts, not when writing story scenes**
 
-**cw-prose-writing** - Use when drafting or editing narrative fiction:
-- Story chapters (Act I, II, III)
-- Scenes and dialogue
-- Following project style guides and conventions
-
-**cw-story-critique** - Use when analyzing story content:
+**cw-story-critique** - For analyzing and providing feedback on story content:
 - Reviewing draft chapters for feedback
 - Analyzing pacing, character development, themes
+- Providing balanced critique calibrated to genre and audience
+- **USE THIS when the user asks for feedback or critique, not when writing**
 
-**cw-brainstorming** - Use when exploring story ideas:
-- Planning new plot elements
+**cw-brainstorming** - For capturing creative exploration:
+- Planning new plot elements and story possibilities
 - Discussing character arcs or world possibilities
-- Recording creative discussions (minimal notes, preserve freedom)
+- Recording creative discussions with minimal notes
+- Preserving creative freedom by recording only what was stated
+- **USE THIS when exploring ideas, before committing to writing**
 
-**Note**: Claude should invoke these skills proactively when the task matches. You don't need to request them explicitly unless Claude forgets.
+**cw-router** - Quick guide for choosing the right skill:
+- Use when uncertain which creative writing skill to invoke
+- Helps decide between brainstorming vs documentation, critique vs writing, etc.
+
+### How Skills Work
+
+**Claude (that's me!) should:**
+- Invoke these skills proactively and automatically when appropriate
+- Use `cw-prose-writing` for ANY story writing or editing work
+- Use `cw-official-docs` for worldbuilding documentation
+- Use `cw-story-critique` when asked for feedback
+- Use `cw-brainstorming` when exploring ideas before writing
+
+**You don't need to:**
+- Request these skills explicitly (though you can if I forget)
+- Know which skill to use (but you can specify if you prefer)
+
+**Important:** These skills have access to project style guides, genre conventions, and writing best practices. Using them ensures consistent quality and adherence to Shield Doctrine's hard military sci-fi tone.
 
 ## Common Collaboration Tasks
 
