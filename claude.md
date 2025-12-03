@@ -4,7 +4,7 @@
 
 **Shield Doctrine** is a military science fiction trilogy set in a Roman-inspired stellar republic in 2750 CE. The story focuses on professional competence, earned citizenship, and infrastructure as the foundation of civilization.
 
-**Current Development Status:** Act I v8 with investigation subplot (aligned with Stellar Republic), Acts II-III v5
+**Current Development Status:** Act I v8.2 Part 1 complete (aligned with Stellar Republic), Acts II-III v5
 
 **Genre:** Hard military sci-fi with emphasis on tactical realism and professional competence
 
@@ -30,12 +30,13 @@ These documents contain critical workflow guidance that will help you work more 
   - Military subfolder: Stellar Legions, Fleet and Ships, Auxiliary Forces
 
 ### ACTIVE STORY VERSION
-- **chapters/Act I - Story v8.md** - Current Act I with investigation subplot (aligned with Stellar Republic)
-- **chapters/Act II - Story v5.md** - Current Act II
-- **chapters/Act III - Story v5.md** - Current Act III
-- **chapters/Act I - Story v6.md** - Previous Act I version (reference)
-- **chapters/Act I - Story v7.md** - Previous Act I version (reference)
-- **chapters/*Improvements.md** - Analysis and enhancement notes for each act
+- **book/Act-I/v8.2.md** - Current Act I Part 1 complete (10,125 words, aligned with Stellar Republic)
+- **book/Act-I/v8.md** - Act I Part 1 incomplete (reference)
+- **book/Act-I/v7.md** - Previous Act I version (reference)
+- **book/Act-II/v5.md** - Current Act II
+- **book/Act-III/v5.md** - Current Act III
+- **book/Act-*/Improvements.md** - Analysis and enhancement notes for each act
+- **book/Act-*/archive/** - Older versions (v6, v5, original Story.md)
 
 ### SUPPORTING MATERIALS
 - **world-building/** - Technology systems, themes, settings
@@ -311,9 +312,9 @@ This project uses the **Creative Writing Skills plugin** - a specialized system 
 ## Common Collaboration Tasks
 
 ### Story Development
-1. Check current versions in `chapters/` (Act I v7, Acts II-III v5)
+1. Check current versions in `book/` (Act I v8.2, Acts II-III v5)
 2. Reference corresponding Improvements docs for analysis
-3. Verify consistency with Worldbuilding Consistency Guide
+3. Verify consistency with Hard Constraints and Key Technology guides
 4. Check Roman Principles Integration Guide for opportunities
 5. **Commit after major changes** (see Git Workflow section)
 
@@ -337,11 +338,12 @@ This project uses the **Creative Writing Skills plugin** - a specialized system 
 
 ## Version History
 
-- **Act I v8** - Current with investigation subplot (aligned with Stellar Republic)
-- **Act I v7** - Previous with investigation subplot, murder mystery, character fixes (10,465 words)
-- **Act I v6** - Character consistency improvements, previous version
+- **Act I v8.2** - Current Part 1 complete (10,125 words, aligned with Stellar Republic)
+- **Act I v8** - Part 1 incomplete (reference)
+- **Act I v7** - Previous with investigation subplot, murder mystery, character fixes
+- **Act I v6, v5** - Earlier versions (archived in book/Act-I/archive/)
 - **Acts II-III v5** - Current working versions
-- Earlier versions retained for reference only
+- Earlier versions retained in archive/ subfolders
 
 ## Key Story Beats (Spoiler Warning)
 
