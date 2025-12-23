@@ -54,33 +54,61 @@ Task force commander across all three acts, protagonist perspective character
 - Struggles with casualties despite accepting their necessity
 
 
-## Lieutenant/Captain Marcus Chen
+## Centurion Marcus Chen
 
 **Role: **
 
 Ground-level tactical leader, boarding specialist, represents legionary perspective
 
+**Personal Details:**
+- **Age:** 38 years old (born 2712 CE)
+- **Birthplace:** [TBD - frontier or mid-era system]
+- **Citizenship Status:** Full Citizen (achieved at 12 years service, 2744 CE; examination passed 2744 CE)
+
 **Background:**
 
-- 18 years service at start of Act I (15 years enlisted, promoted to centurion 3 years ago)
+- 18 years service at start of Act I (made entry-level centurion after 6 years service; has been stuck at entry-level centurion rank for 12 years)
 - Carries grandfather's gladius—family connection to first legionary generation
 - Specializes in boarding actions and close-quarters combat
 - Shows exceptional phase tolerance (95th percentile)
-- Promoted to Captain by Act III, commands 1st Cohort
+- Promoted to senior centurion by Act III, commands 1st Cohort [TODO-MILITARY-STRUCTURE: specify exact senior centurion rank once hierarchy defined]
+- Posted to Obsidian Station as "babysitting duty" after being passed over for more prestigious frontier posting
+- Long career as entry-level centurion while others have advanced to senior centurion ranks—doesn't realize his rigid adherence to regulations made him difficult to work with, leading superiors to promote/transfer him elsewhere rather than advance him in rank
 
-**Character Traits:**
+**Early Career & Formation:**
 
-- Calm under extreme pressure
-- Innovative tactician who sees tactical possibilities others miss
-- Natural leader who earns respect through competence
+- Mentored early by a centurion who followed every regulation meticulously—deeply impressed young Chen
+- Vowed to memorize and follow regulations as well as his mentor
+- Rose quickly to entry-level centurion rank (achieved in 6 years, unusually fast) because superiors wanted him transferred away (he attributes this success to his procedural excellence)
+- Advancement from entry-level centurion requires documented combat skills and adaptability—Chen's rigidity has prevented further promotion for 12 years
+- Has had mostly solo postings without real stakes or peer-level conflict
+- Never experienced major combat—Republic military hasn't faced peer/near-peer threats in his career
+- Republic military culture values procedure over results due to lack of recent high-stakes combat experience
+
+**Character Traits at Story Start:**
+
+- Procedurally rigorous—holds weekly briefings religiously, writes up absent officers without cause, maintains "paper-perfect" record to impress chain of command
+- Believes following regulations is the path to advancement (fundamental misconception)
+- Tactically competent when doctrine exists, but has *forgotten* how to improvise
+- Calm under pressure *when following established procedure*—struggles when no doctrine exists
 - Reflective—thinks deeply about cost of combat
 - Values contubernium bonds above abstract ideals
+- Respected for technical competence but seen as "too traditional" and inflexible by peers
+- Stickler who makes things awkward by insisting on proper procedure "no matter how awkward it could make things"
+
+**Character Flaws:**
+
+- Rigidity prevents adaptation
+- Confuses paperwork excellence with leadership excellence
+- Hasn't recognized that his "success" came from people wanting him gone
+- Seeks advancement through process compliance rather than demonstrated leadership
+- Has become more bureaucrat than combat leader due to peaceful career
 
 **Arc Across Three Acts:**
 
-- Act I: Desperate improvisation at Obsidian—first to use phase-shields in combat
-- Act II: Develops staggered materialization doctrine, becomes boarding doctrine architect
-- Act III: Takes command of Shield Doctrine Training Program, teaching next generation
+- Act I: Forced to abandon procedural thinking when Kowalski challenges him to "lead from the front" and improvise with untested phase-shields; discovers effectiveness of adaptation; struggles with guilt about whether he should have tried sooner; begins grappling with revenge vs. justice for fallen comrades and civilians
+- Act II: Praised by command for combat improvisation; tasked with developing Shield Doctrine by drawing from combat experience and relevant procedures; continues wrestling with offensive capability ethics and how far to pursue justice against mercenaries and their sponsors; Republic faces larger question of power projection with new scalpel-like capability
+- Act III: Achieves balance between following doctrine and knowing when to adapt; resolves revenge vs. justice question through [moral resolution TBD]; takes command of Shield Doctrine Training Program, teaching next generation when rules serve vs. when they constrain
 
 **Key Relationships:**
 
@@ -102,6 +130,9 @@ Ground-level tactical leader, boarding specialist, represents legionary perspect
 - Honor his grandfather's legacy
 - Prove legionaries can succeed through skill despite technological disadvantage
 - Make Shield Doctrine a tool for protection, not conquest
+- Seek justice/revenge for soldiers and civilians killed at Obsidian (struggles with defining where the line is)
+- Earn advancement through demonstrated competence, not just paperwork
+- Prove he's a real combat leader, not just a procedural bureaucrat
 
 **Philosophy:**
 
@@ -109,7 +140,7 @@ Ground-level tactical leader, boarding specialist, represents legionary perspect
 
 **Growth:**
 
-Evolves from tactical innovator to institutional teacher, recognizing that spreading knowledge matters as much as personal excellence.
+Evolves from rigid procedural thinker to adaptive leader who knows when to follow doctrine and when to improvise. Transforms from bureaucrat seeking advancement through paperwork to combat leader earning respect through demonstrated competence. Resolves internal tension between revenge and justice. Ultimately becomes institutional teacher, recognizing that spreading knowledge and balanced thinking matters as much as personal excellence.
 
 
 ## Chief Engineer Lucia Torres
@@ -170,30 +201,59 @@ Represents Engineering Corps' pragmatic approach—they build for entire Confede
 
 ## Dr. James Adeyemi
 
-**Role:** 
+**Role:**
 
 Scientific breakthrough creator, keeper of mysteries, catalyst for technology development
 
+**Personal Details:**
+- **Age:** 32 years old (born 2718 CE)
+- **Birthplace:** [TBD - likely core system given family prestige]
+- **Citizenship Status:** Resident Citizen (11 years, 9 months service at Act I start; needs 3 more months + examination for Full Citizenship)
+
 **Background:**
 
-- Lead researcher at Obsidian Station
-- Scientific Track civilian who earned citizenship through research contributions
-- On loan to Legions for Shield Doctrine development
-- Found mysterious artifact that inspired phase-variance breakthrough
+- Lead researcher in planetary geology at Obsidian Station (rank acknowledges his years of service more than actual achievements; expected to teach and mentor junior staff but struggles due to fear of credit theft)
+- Scientific Track service member earning citizenship through research contributions
+- Will discover mysterious artifact at start of Act I (opening scene during cooling-off walk on planet surface) that inspires phase-variance breakthrough
+- Comes from prestigious Adeyemi family—long line of brilliant scientists (one ancestor developed improvements enabling Lightbringer-class vessels)
+- Stationed at Obsidian after career struggles and reputation as difficult collaborator (frequent complaints from station research leadership about not involving staff properly)
+- Has decided to resign from Scientific Track if he cannot make a breakthrough before achieving Full Citizenship (3 months away)
 
-**Character Traits:**
+**Family Pressure & Early Life:**
 
-- Brilliant theoretical physicist
-- Curious to point of obsession
+- Grew up with Science Track as "only choice" in family culture
+- Expected to achieve solo breakthrough like ancestors (family histories emphasize individual achievement)
+- In youth, excelled at mediation and collaboration in inter-service youth groups at school contests
+- Family discouraged collaboration emphasis once he began service, pushing for solo scientific recognition
+- Natural talent for bringing different perspectives together, but suppressed this in pursuit of individual glory
+
+**Character Traits at Story Start:**
+
+- Strong theoretical mind—good ideas and insights
+- Weak practical execution—struggles with experiment design and lab work
+- Poor at documentation—can't write clear reports despite good thinking
+- Difficult collaborator—fears others will steal credit for his ideas
+- Reputation on station: argumentative and hard to work with (frequently conflicts with department heads)
+- Visits planet surface alone when cooling off after conflicts
+- Curious to point of obsession about mysteries like the artifact
 - Honest about uncertainties—admits what he doesn't know
 - Cautious about artifact's origins and implications
 - Excited by mathematical elegance
 
+**Character Flaws:**
+
+- Fears he's "second-rate" compared to family legacy
+- Struggles with impostor syndrome
+- Collaboration anxiety stems from fear of being overshadowed
+- Can't translate good theories into practical lab results
+- Suppressed his natural mediation talent in pursuit of wrong kind of success
+- Self-sabotaging: his fear of not achieving solo keeps him from achieving collaboratively
+
 **Arc Across Three Acts:**
 
-- Act I: Discovers phase-variance shields, escapes Obsidian with artifact
-- Act II: Collaborates with Torres, develops warp corridor theory
-- Act III: (Epilogue) Studies artifact, contemplates deeper mysteries
+- Act I: Artifact discovery (opening scene) forces collaboration decision—work with Miller or abandon research; chooses collaboration out of desperation; expands team (Miller, Dr. Patel, Dr. Singh); rediscovers forgotten mediation talent as he bridges gaps between scientists and engineers; phase-shield breakthrough happens through team effort; Miller's murder creates doubt (was she carrying him, or did he enable the team?); sees theory become violent reality in combat
+- Act II: Learns to organize research teams systematically; discovers his real talent is enabling others and coordinating different perspectives; collaborates with Torres on mathematical breakthrough; becomes research manager rather than solo researcher
+- Act III: Established as Shield Program science manager—succeeds not because he's the smartest individual scientist, but because he's best at coordinating diverse wills and directions into coherent programs; (Epilogue) studies artifact with team approach
 
 **Key Relationships:**
 
@@ -203,17 +263,21 @@ Scientific breakthrough creator, keeper of mysteries, catalyst for technology de
 
 **Defining Moments:**
 
-- Discovering artifact on planet surface (backstory)
+- Discovering artifact on planet surface during cooling-off walk (Act I opening scene)
+- Decision to collaborate with Miller despite fears (Act I early)
 - Realizing shield math matches jump drive math (Act I)
 - Collaboration with Torres producing warp corridor theory (Act II)
 - Post-Hammerfall artifact study revealing deeper patterns (Epilogue)
 
 **Motivations:**
 
+- Prove himself worthy of family legacy (but struggles with what "worthy" means)
+- Make a breakthrough before resigning from Science Track
 - Understand artifact's origins and capabilities
 - Translate theoretical breakthroughs into practical applications
 - Advance Confederation's technological capabilities
 - Satisfy personal curiosity about universe's deeper mysteries
+- (Evolving) Learn to enable others rather than achieve solo glory
 
 **Mystery Element:**
 
@@ -222,6 +286,10 @@ Adeyemi is keeper of central mystery—the artifact's true nature, origins, and 
 **Philosophy:**
 
 "We can measure what it does, but we can't explain how or why. That's the difference between engineering and understanding."
+
+**Growth:**
+
+Evolves from struggling solo researcher with impostor syndrome to confident research manager who enables team breakthroughs. Discovers his real talent isn't individual brilliance like his ancestors, but collaborative leadership—bringing diverse perspectives together. Reframes "family legacy" from solo achievement to impact through coordination. Learns that orchestrating others' excellence is its own form of scientific contribution.
 
 ## Admiral Katherine Stone
 
@@ -332,33 +400,65 @@ Senior NCO, centurion system exemplar, institutional memory
 
 Represents NCO corps as professional backbone—centurions who develop over 12-15 years, provide tactical expertise at every level, enable mission command doctrine through competence and experience.
 
-## Lieutenant/Commander Yuki Tanaka
+## [Rank TBD] Yuki Tanaka
 
 **Role: **
 
 Intelligence officer, internal security, investigation catalyst
 
+**Personal Details:**
+- **Age:** 26 years old (born 2724 CE)
+- **Birthplace:** [TBD]
+- **Citizenship Status:** Non-Citizen (6 years service at Act I start; needs 2 more years for Resident Citizenship)
+- **Current Rank:** [TODO-MILITARY-STRUCTURE: clarify intelligence rank system - is she military (Legion) rank or separate intelligence service?]
+
 **Background:**
 
-- 6 years service at start
-- Intelligence specialization—suspicious by nature
-- Methodical investigator
-- Discovers Webb's betrayal
-- Promoted to Commander and head of Confederation Counter-Intelligence by Act III
+- 6 years service at Act I start
+- Military intelligence specialization—expert in hostile forces disposition, ship identification, infiltration, war prisoner interrogation, counter-espionage
+- **Zero experience with civilian murder investigation**—never considered Vigiles service or detective work
+- Discovers Webb's betrayal through improvised detective work
+- Promoted to [Rank TBD] and head of Confederation Counter-Intelligence by Act III [TODO-MILITARY-STRUCTURE: specify exact rank once intelligence structure defined]
 
-**Character Traits:**
+**Personal Interests:**
 
-- Naturally suspicious—sees patterns others miss
-- Methodical and thorough in investigations
-- Understands human motivations
+- Favorite books: Legal thrillers about an awkward lawyer who wins cases against all odds
+- Has watched popular detective movies
+- This gives her theoretical understanding that investigations are complicated, but no practical knowledge
+- Never studied crime scene procedures, evidence chain protocols, or civilian interrogation techniques
+
+**Character Traits at Story Start:**
+
+- Expert in military intelligence—confident in her domain
+- Nervous about murder investigation—out of her depth
+- Naturally suspicious—sees patterns others miss (this transfers across domains)
+- Methodical when she knows the procedures (doesn't know detective procedures)
+- Understands human motivations (this helps)
 - Politically astute—recognizes implications
 - Protective of Confederation from internal threats
+- Adaptable—learns quickly from mistakes
+
+**Character Strengths (Military Intel):**
+
+- Can recognize all known hostile ship profiles
+- Knows how to infiltrate enemy organizations
+- Expert at interrogating military prisoners and enemy combatants
+- Understands counter-espionage warning signs
+- Pattern recognition across intelligence data
+
+**Character Gaps (Detective Work):**
+
+- Doesn't know crime scene protocols (how to secure, what to preserve)
+- Unfamiliar with evidence chain procedures (has heard the words, no practical meaning)
+- No training in civilian interrogation (different from military prisoner interrogation)
+- Doesn't know proper documentation for legal proceedings
+- Has to improvise everything
 
 **Arc Across Three Acts:**
 
-- Act I: Discovers unauthorized transmissions at Obsidian
-- Act II: Uncovers Webb network, identifies citizenship system vulnerability
-- Act III: Leads counter-intelligence, broader security architecture
+- Act I: Discovers murder, makes mistakes securing crime scene (legionaries already moved body, contaminated scene); tries to find Vigiles expert to help (finds Dr. Marcus Hadrian, former detective from Valentia, Concordia System who worked 6 years as detective before transferring to Scientific Track); Hadrian dies in Krell attack before they can meet; loses Miller's body in station destruction; struggles with civilian interrogations and red herrings (distillery bootlegging); data drive breakthrough shifts case to espionage (her domain); successfully gets confession using counter-intelligence interrogation techniques
+- Act II: Expands to broader counter-intelligence work; uncovers Webb network; identifies citizenship system vulnerability; realizes detective and intelligence skills ARE transferable
+- Act III: Leads Confederation Counter-Intelligence with confidence; proven adaptability and cross-domain expertise
 
 **Key Relationships:**
 
@@ -375,6 +475,9 @@ Intelligence officer, internal security, investigation catalyst
 **Motivations:**
 
 - Protect Confederation from internal subversion
+- Solve Miller's murder despite having no training (personal challenge)
+- Prove she can adapt her military intelligence skills to new domains
+- Build airtight case despite mistakes and lost evidence
 - Identify and address systemic vulnerabilities
 - Ensure citizenship reforms address exclusion problem
 - Prepare for unknown future threats
@@ -386,6 +489,10 @@ Represents internal security perspective—not every threat is external, institu
 **Philosophy:**
 
 "External enemies are obvious. Internal vulnerabilities are what destroy civilizations."
+
+**Growth:**
+
+Evolves from expert-in-one-domain to adaptable cross-domain professional. Learns that skills transfer between related fields when you understand underlying principles. Discovers confidence comes not from knowing all procedures, but from ability to learn and adapt quickly. Proves that military intelligence and detective work share fundamental pattern recognition and human motivation understanding, even when specific techniques differ.
 
 
 # Secondary Characters

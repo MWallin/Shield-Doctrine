@@ -180,4 +180,5 @@ We have civilians to protect, get to it!
 The last sentences, after the alarm klaxons sound should be the start of the first chapter in Part 2 and here we should see Tanaka scramble to gather and secure her evidence before hurrying to her station. 
 
 # Act I - v8 Feedback session 2
-Here will be the feedback for the next session…
+
+
