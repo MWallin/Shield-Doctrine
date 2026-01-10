@@ -1,3 +1,24 @@
+---
+status: Exploratory
+date: 2025-11-30
+purpose: Analyzes global military personnel ratios (0.2-5% of population) to establish realistic baselines for interstellar military sizing. Demonstrates that the Stellar Republic's proposed 0.00046% ratio is 650-1,000 times lower than even the most peaceful modern nations, requiring substantial worldbuilding justification.
+type: research
+tags:
+  - military-organization
+  - demographics
+  - worldbuilding
+  - force-structure
+topics:
+  - military-ratios
+  - global-comparisons
+  - force-sizing
+  - peacetime-militaries
+related:
+  - "[[stellar_republic_legion_structure]]"
+  - "[[The Eternal Legion- How Rome's Military]]"
+  - "[[The Stellar Republic - Stellar Legions]]"
+---
+
 # Military personnel ratios: From modern nations to interstellar empires
 
 **The Stellar Republic's 0.00046% military ratio is approximately 650-1,000 times lower than even the most peaceful modern nations**, making it an extreme outlier that would require substantial justification in worldbuilding. Today's global average hovers around **0.3-0.35%** of population serving in active military, with peaceful developed democracies typically maintaining 0.2-0.5%—still hundreds of times higher than the proposed science fiction setting.

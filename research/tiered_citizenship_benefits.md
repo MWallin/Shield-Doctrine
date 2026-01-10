@@ -1,3 +1,26 @@
+---
+status: Exploratory
+date: 2025-11-30
+purpose: Proposes Guaranteed Basic Income (GBI) system scaling across four citizenship tiers (Resident, Municipal, Regional, Federal) as authentically Roman reciprocity-based welfare rather than modern redistribution. Analyzes real-world evidence from Alaska's dividend to Singapore's differentiated benefits to demonstrate economic feasibility and alignment with Roman Republican values.
+type: research
+tags:
+  - citizenship-benefits
+  - roman-reciprocity
+  - economic-policy
+  - worldbuilding
+topics:
+  - tiered-GBI
+  - Roman-welfare
+  - citizenship-incentives
+  - economic-feasibility
+  - post-scarcity
+related:
+  - "[[The Roman Civic Model- Ancient Systems a]]"
+  - "[[Life Extension Technology]]"
+  - "[[The Stellar Republic - Citizenship]]"
+  - "[[time_limited_policy_evaluation]]"
+---
+
 # Tiered Citizenship Benefits in the Stellar Republic: Roman Reciprocity and Modern Implementation
 
 The Stellar Republic's proposed Guaranteed Basic Income (GBI) system—scaling benefits across four citizenship tiers from zero (Resident) through Municipal and Regional to maximum (Federal)—would represent an **authentically Roman approach to civic welfare** rather than modern redistribution with aesthetic window dressing. But achieving this requires careful attention to reciprocity, earned merit, and the distinction between fulfilling obligations versus creating dependency.

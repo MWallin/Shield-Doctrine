@@ -1,3 +1,26 @@
+---
+status: Exploratory
+date: 2025-11-30
+purpose: Examines scientifically plausible radical life extension (500+ year lifespans) through multi-system biological interventions and technological augmentation. Analyzes how Roman institutional structures (cursus honorum, Senate, military service) would need revolutionary reforms to prevent complete ossification under extreme longevity.
+type: research
+tags:
+  - technology
+  - life-extension
+  - roman-institutions
+  - worldbuilding
+  - social-systems
+topics:
+  - longevity-science
+  - tiered-citizenship
+  - cursus-honorum-adaptation
+  - population-dynamics
+  - social-mobility
+related:
+  - "[[tiered_citizenship_benefits]]"
+  - "[[The Roman Civic Model- Ancient Systems a]]"
+  - "[[The Stellar Republic - Citizenship]]"
+---
+
 # Life Extension Technology for Roman-Inspired Science Fiction Worldbuilding
 
 Radical life extension achieving 500+ year lifespans is theoretically achievable through multi-system biological interventions combined with technological augmentation, with the most scientifically grounded approach being **periodic cellular rejuvenation** targeting all major hallmarks of aging simultaneously. For a noblebright Roman-inspired civilization, a tiered citizenship-based system can leverage longevity to enhance Rome's greatest strengths—long-term institutional thinking and accumulated wisdom—while managing the profound challenges of generational turnover, social mobility, and population dynamics. The key insight: Rome's cultural emphasis on duty, honor, and legacy across generations positions it uniquely well for life extension, but only with revolutionary institutional reforms to prevent complete ossification of political and social structures.

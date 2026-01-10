@@ -1,3 +1,25 @@
+---
+status: Exploratory
+date: 2025-12-23
+purpose: Defines complete legion organizational structure (~6,100 soldiers) with Roman-inspired ranks and command hierarchy from Decanus (squad leader) to Legatus (legion commander). Provides clear reference for narrative consistency and career progression pathways.
+type: research
+tags:
+  - military-organization
+  - roman-structure
+  - worldbuilding
+  - reference
+topics:
+  - legion-structure
+  - rank-hierarchy
+  - command-chain
+  - career-progression
+  - cohort-organization
+related:
+  - "[[The Stellar Republic - Stellar Legions]]"
+  - "[[The Eternal Legion- How Rome's Military]]"
+  - "[[Military sizing]]"
+---
+
 # Stellar Republic Legion Structure
 ## A Streamlined Roman-Inspired Military Hierarchy
 

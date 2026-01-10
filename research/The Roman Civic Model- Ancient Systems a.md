@@ -1,3 +1,28 @@
+---
+status: Exploratory
+date: 2025-11-14
+purpose: Examines Roman civic integration systems (graduated citizenship, strategic legal protections, civic values transmission, infrastructure investment) that transformed conquered enemies into loyal stakeholders. Extrapolates how these principles would manifest in a modern democratic state as "Modern Rome" with neo-cursus honorum, earned citizenship pathways, and citizenship-infrastructure integration.
+type: research
+tags:
+  - roman-civic-model
+  - citizenship
+  - integration-systems
+  - governance
+  - worldbuilding
+topics:
+  - graduated-citizenship
+  - cursus-honorum
+  - legal-systems
+  - infrastructure-philosophy
+  - cultural-integration
+  - civic-values
+related:
+  - "[[tiered_citizenship_benefits]]"
+  - "[[Life Extension Technology]]"
+  - "[[The Stellar Republic - Citizenship]]"
+  - "[[time_limited_policy_evaluation]]"
+---
+
 # The Roman Civic Model: Ancient Systems and Modern Applications
 
 Rome built the ancient world's most successful integration machine—not through military might alone, but through sophisticated civic systems that transformed conquered enemies into loyal citizens. The empire's true genius lay in **extending citizenship as strategic policy**, backed by comprehensive legal protections, monumental infrastructure investment, and flexible cultural assimilation. Understanding these mechanisms reveals both Rome's ancient success and a striking blueprint for how modern nations might approach citizenship, integration, and civic culture.

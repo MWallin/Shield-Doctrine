@@ -1,3 +1,25 @@
+---
+status: Exploratory
+date: 2025-11-30
+purpose: Designs time-limited policy evaluation system by independent Censors (modeled on Roman censorship) requiring defined timeframes, quantifiable metrics, and active renewal decisions. Draws on Texas sunset laws and UK evidence institutions while addressing Goodhart's Law (metric gaming) and institutional capture risks.
+type: research
+tags:
+  - governance
+  - policy-evaluation
+  - roman-censors
+  - evidence-based-policy
+topics:
+  - censorial-review
+  - sunset-laws
+  - metric-design
+  - institutional-independence
+  - Goodharts-Law
+related:
+  - "[[tiered_citizenship_benefits]]"
+  - "[[The Roman Civic Model- Ancient Systems a]]"
+  - "[[The Stellar Republic - Government]]"
+---
+
 # Time-Limited Policy Evaluation by Censors: Evidence-Based Governance in the Stellar Republic
 
 The Stellar Republic's proposed system—requiring all major policies to include defined timeframes, quantifiable success metrics, and active renewal decisions by independent Censors—would represent **authentically Roman institutional design adapted for evidence-based governance**. But achieving this requires balancing the moral authority Roman censors possessed with modern understanding of metric manipulation, institutional capture, and the failures of purely technocratic evaluation.

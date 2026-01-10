@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "4f71b39ce3591248",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e5a51af385ce4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de10bd990d34fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/TODO-Military-Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO-Military-Structure"
+            }
+          },
+          {
+            "id": "6173f0d89cc2f998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/milfix-analysis-and-recommendations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "milfix-analysis-and-recommendations"
+            }
+          },
+          {
+            "id": "dbae1d4cd544e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/ftl and gate fixes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ftl and gate fixes"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "685f8f3d2927749d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e809edea3284764a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/Act-I/v8.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "v8.2"
+            }
+          },
+          {
+            "id": "f4d797b75d306e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world-building/The Stellar Republic - Locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Stellar Republic - Locations"
+            }
+          },
+          {
+            "id": "d352d09c28115c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/stellar_republic_ftl_and_gate_technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stellar_republic_ftl_and_gate_technology"
+            }
+          },
+          {
+            "id": "646d883fc43e2d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world-building/The Stellar Republic - Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Stellar Republic - Overview"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90f92d48df206506",
+    "type": "split",
+    "children": [
+      {
+        "id": "318ff6604634c91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4aa5d50d3e9edd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "954b4dceda7cf92b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a3f81627ae3da5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "8eced0f0afeb908f",
+    "type": "split",
+    "children": [
+      {
+        "id": "772d61d1bfb0367d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b1194f997bb9a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world-building/The Stellar Republic - Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Stellar Republic - Timeline"
+            }
+          },
+          {
+            "id": "46f647769527931d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "world-building/The Stellar Republic - Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Stellar Republic - Timeline"
+            }
+          },
+          {
+            "id": "e0fe1c329abcf814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb74cae98ad015e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "372a35141c7703d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "world-building/The Stellar Republic - Timeline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Stellar Republic - Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dbae1d4cd544e7a5",
+  "lastOpenFiles": [
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768083341570",
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768083149335",
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768083063652",
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768082993389",
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768082922920",
+    "research/stellar_republic_ftl_and_gate_technology.md.tmp.26944.1768082895927",
+    "world-building/The Stellar Republic - Timeline.md",
+    "_notes/ftl and gate fixes.md",
+    "_notes/milfix.md",
+    "research/stellar_republic_ftl_and_gate_technology.md",
+    "research/stellar_republic_legion_structure.md",
+    "research/time_limited_policy_evaluation.md",
+    "research/The Roman Civic Model- Ancient Systems a.md",
+    "research/tiered_citizenship_benefits.md",
+    "research/Life Extension Technology.md.tmp.26944.1768065700530",
+    "research/The Eternal Legion- How Rome's Military .md",
+    "research/README NEW.md",
+    "research/Life Extension Technology.md",
+    "research/Human-Computer interfaces in 2750.md",
+    "research/Military sizing.md",
+    "research/Modern Warfare in Space.md",
+    "world-building/Key Technology.md",
+    "research/tiered_citizenship_benefits.md.tmp.26944.1768065470292",
+    "world-building/The Stellar Republic - Overview.md",
+    "world-building/The Stellar Republic - Locations.md",
+    "_notes/milfix-analysis-and-recommendations.md",
+    "_notes/TODO-Military-Structure.md",
+    "book/Act-I/v8.2.md",
+    "_notes/Service Branches Inconsistencies.md",
+    "_process/GIT-WORKFLOW-FOR-WRITERS.md"
+  ]
+}
